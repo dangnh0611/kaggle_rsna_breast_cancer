@@ -1,0 +1,9 @@
+{
+    "RAW_DATA_DIR": "./datasets/raw/",
+    "PROCESSED_DATA_DIR": "./datasets/processed/",
+    "MODEL_CHECKPOINT_DIR": "./checkpoints/",
+    "MODEL_FINAL_SELECTION_DIR": "./assets/reproduce/",
+    "SUBMISSION_DIR": "./submissions/",
+    "ASSETS_DIR": "./assets/",
+    "TEMP_DIR": "./tmp/"
+}   

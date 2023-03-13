@@ -1,0 +1,1873 @@
+ID1,LeftRight,Age,number,abnormality,classification,subtype
+D1-0001,R,44,2,calcification,Benign,
+D1-0002,L,40,2,calcification,Benign,
+D1-0003,L,39,2,calcification,Benign,
+D1-0004,L,41,2,calcification,Benign,
+D1-0005,R,42,2,calcification,Benign,
+D1-0006,L,46,2,calcification,Benign,
+D1-0007,R,54,2,calcification,Benign,
+D1-0008,L,38,2,calcification,Benign,
+D1-0009,L,59,2,calcification,Benign,
+D1-0010,R,43,2,calcification,Benign,
+D1-0011,L,27,2,calcification,Benign,
+D1-0012,L,34,2,calcification,Benign,
+D1-0013,L,52,2,calcification,Benign,
+D1-0014,L,52,2,calcification,Benign,
+D1-0015,R,29,2,calcification,Benign,
+D1-0016,R,58,2,calcification,Benign,
+D1-0017,R,45,2,calcification,Benign,
+D1-0018,R,46,2,calcification,Benign,
+D1-0019,L,44,2,calcification,Benign,
+D1-0020,R,53,2,calcification,Benign,
+D1-0021,L,22,2,calcification,Benign,
+D1-0021,R,22,2,calcification,Benign,
+D1-0022,L,34,2,calcification,Benign,
+D1-0023,R,48,2,calcification,Benign,
+D1-0024,R,33,2,calcification,Benign,
+D1-0025,L,49,2,calcification,Benign,
+D1-0026,R,25,2,calcification,Benign,
+D1-0027,L,44,2,calcification,Benign,
+D1-0028,L,35,2,calcification,Benign,
+D1-0029,L,43,2,calcification,Benign,
+D1-0030,L,37,2,calcification,Benign,
+D1-0031,R,51,2,calcification,Benign,
+D1-0032,L,49,2,calcification,Benign,
+D1-0032,R,49,2,calcification,Benign,
+D1-0033,R,57,2,calcification,Benign,
+D1-0034,L,44,2,calcification,Benign,
+D1-0034,R,44,2,calcification,Benign,
+D1-0035,L,45,2,calcification,Benign,
+D1-0035,R,45,2,calcification,Benign,
+D1-0036,L,28,2,calcification,Benign,
+D1-0037,L,41,2,calcification,Benign,
+D1-0038,R,47,2,calcification,Benign,
+D1-0039,L,41,2,calcification,Benign,
+D1-0039,R,41,2,calcification,Benign,
+D1-0040,L,36,2,calcification,Benign,
+D1-0041,L,42,2,calcification,Benign,
+D1-0042,L,41,2,calcification,Benign,
+D1-0043,L,44,2,calcification,Benign,
+D1-0045,L,33,2,calcification,Malignant,
+D1-0046,R,43,2,calcification,Malignant,
+D1-0047,R,43,2,calcification,Malignant,
+D1-0051,R,28,2,calcification,Malignant,
+D1-0053,R,37,2,calcification,Malignant,
+D1-0055,R,46,2,calcification,Malignant,
+D1-0056,L,47,2,calcification,Malignant,
+D1-0058,R,55,2,calcification,Malignant,
+D1-0059,R,43,2,calcification,Malignant,
+D1-0061,R,42,2,calcification,Malignant,
+D1-0063,L,54,2,calcification,Malignant,
+D1-0064,L,27,2,calcification,Malignant,
+D1-0067,R,64,2,calcification,Malignant,
+D1-0068,L,45,2,calcification,Malignant,
+D1-0070,L,56,2,calcification,Malignant,
+D1-0071,R,64,2,calcification,Malignant,
+D1-0075,R,31,2,calcification,Malignant,
+D1-0078,R,34,2,calcification,Malignant,
+D1-0084,L,39,2,calcification,Malignant,
+D1-0085,R,32,2,calcification,Malignant,
+D1-0087,L,59,2,calcification,Benign,
+D1-0087,R,59,2,calcification,Malignant,
+D1-0089,L,63,2,calcification,Malignant,
+D1-0089,R,63,2,calcification,Benign,
+D1-0091,L,54,2,calcification,Malignant,
+D1-0101,R,50,2,calcification,Malignant,
+D1-0102,L,56,2,calcification,Malignant,
+D1-0103,L,40,2,calcification,Malignant,
+D1-0105,R,56,2,calcification,Malignant,
+D1-0106,R,60,2,calcification,Malignant,
+D1-0107,L,34,2,calcification,Malignant,
+D1-0110,L,41,2,calcification,Malignant,
+D1-0111,L,50,2,calcification,Malignant,
+D1-0112,R,52,2,calcification,Malignant,
+D1-0113,R,43,2,calcification,Malignant,
+D1-0116,R,44,2,calcification,Malignant,
+D1-0120,L,53,2,calcification,Malignant,
+D1-0121,L,49,2,calcification,Benign,
+D1-0121,R,49,2,calcification,Malignant,
+D1-0122,R,42,2,calcification,Malignant,
+D1-0124,R,39,2,calcification,Malignant,
+D1-0127,L,62,2,calcification,Malignant,
+D1-0129,R,51,2,calcification,Malignant,
+D1-0130,R,44,2,calcification,Malignant,
+D1-0131,L,45,2,calcification,Malignant,
+D1-0132,R,40,2,calcification,Malignant,
+D1-0133,R,49,2,calcification,Malignant,
+D1-0134,L,39,2,calcification,Malignant,
+D1-0135,L,47,2,calcification,Malignant,
+D1-0140,R,39,2,calcification,Malignant,
+D1-0142,L,27,2,calcification,Malignant,
+D1-0143,L,47,2,calcification,Malignant,
+D1-0147,R,47,2,calcification,Malignant,
+D1-0148,R,43,2,calcification,Malignant,
+D1-0149,L,46,2,calcification,Malignant,
+D1-0152,L,50,2,calcification,Malignant,
+D1-0154,L,42,2,calcification,Malignant,
+D1-0157,L,64,2,calcification,Malignant,
+D1-0161,L,38,2,calcification,Malignant,
+D1-0162,R,33,2,calcification,Malignant,
+D1-0163,L,36,2,calcification,Malignant,
+D1-0168,L,41,2,calcification,Malignant,
+D1-0169,R,45,2,calcification,Malignant,
+D1-0171,R,45,2,calcification,Malignant,
+D1-0173,L,43,2,calcification,Malignant,
+D1-0173,R,43,2,calcification,Benign,
+D1-0176,R,41,2,calcification,Malignant,
+D1-0178,R,40,2,calcification,Malignant,
+D1-0180,L,38,2,calcification,Malignant,
+D1-0181,L,57,2,calcification,Malignant,
+D1-0182,R,47,2,calcification,Malignant,
+D1-0183,L,46,2,calcification,Malignant,
+D1-0184,L,32,2,calcification,Malignant,
+D1-0188,R,50,2,calcification,Malignant,
+D1-0189,L,41,2,calcification,Malignant,
+D1-0191,L,57,2,calcification,Malignant,
+D1-0192,L,41,2,calcification,Malignant,
+D1-0194,R,51,2,calcification,Malignant,
+D1-0196,L,44,2,calcification,Malignant,
+D1-0199,R,35,2,calcification,Malignant,
+D1-0200,R,46,2,calcification,Malignant,
+D1-0201,R,56,2,calcification,Malignant,
+D1-0202,L,38,2,calcification,Malignant,
+D1-0202,R,38,2,calcification,Benign,
+D1-0203,L,69,2,calcification,Benign,
+D1-0203,R,69,2,calcification,Malignant,
+D1-0204,R,42,2,calcification,Malignant,
+D1-0207,L,31,2,calcification,Malignant,
+D1-0207,R,31,2,calcification,Benign,
+D1-0208,L,31,2,calcification,Malignant,
+D1-0211,R,44,2,calcification,Malignant,
+D1-0213,L,41,2,calcification,Benign,
+D1-0213,R,41,2,calcification,Malignant,
+D1-0215,L,53,2,calcification,Malignant,
+D1-0217,L,58,2,calcification,Malignant,
+D1-0220,L,36,2,calcification,Malignant,
+D1-0221,L,40,2,calcification,Benign,
+D1-0221,R,40,2,calcification,Malignant,
+D1-0223,L,46,2,calcification,Malignant,
+D1-0223,R,46,2,calcification,Benign,
+D1-0225,L,32,2,calcification,Malignant,
+D1-0226,R,43,2,calcification,Malignant,
+D1-0227,L,45,2,calcification,Malignant,
+D1-0229,L,50,2,calcification,Malignant,
+D1-0230,L,33,2,calcification,Malignant,
+D1-0231,L,38,2,calcification,Malignant,
+D1-0232,L,44,2,calcification,Malignant,
+D1-0236,R,32,2,calcification,Malignant,
+D1-0240,L,39,2,calcification,Malignant,
+D1-0241,L,40,2,calcification,Malignant,
+D1-0242,R,58,2,both,Benign,
+D1-0243,R,43,2,both,Benign,
+D1-0244,R,43,2,both,Benign,
+D1-0245,L,41,2,both,Benign,
+D1-0245,R,41,2,both,Benign,
+D1-0246,L,50,2,both,Benign,
+D1-0246,R,50,2,both,Benign,
+D1-0247,L,48,2,both,Benign,
+D1-0248,L,33,2,both,Benign,
+D1-0249,R,51,2,both,Benign,
+D1-0250,L,29,2,both,Benign,
+D1-0250,R,29,2,both,Benign,
+D1-0251,R,39,2,both,Benign,
+D1-0252,R,37,2,both,Benign,
+D1-0253,R,41,2,both,Benign,
+D1-0254,L,44,2,both,Benign,
+D1-0254,R,44,2,both,Benign,
+D1-0255,L,51,2,both,Benign,
+D1-0256,R,40,2,both,Benign,
+D1-0257,L,46,2,both,Benign,
+D1-0257,R,46,2,both,Benign,
+D1-0258,R,39,2,both,Benign,
+D1-0259,R,44,2,both,Benign,
+D1-0260,L,42,2,both,Benign,
+D1-0261,L,29,2,both,Benign,
+D1-0262,R,45,2,both,Benign,
+D1-0263,L,45,2,both,Benign,
+D1-0263,R,45,2,both,Benign,
+D1-0264,L,38,2,both,Benign,
+D1-0265,L,30,2,both,Benign,
+D1-0266,L,36,2,both,Benign,
+D1-0267,L,45,2,both,Benign,
+D1-0268,R,45,2,both,Benign,
+D1-0269,L,52,2,both,Benign,
+D1-0270,L,50,2,both,Benign,
+D1-0271,R,43,2,both,Benign,
+D1-0272,L,51,2,both,Benign,
+D1-0273,L,26,2,both,Benign,
+D1-0273,R,26,2,both,Benign,
+D1-0274,L,44,2,both,Benign,
+D1-0274,R,44,2,both,Benign,
+D1-0275,L,26,2,both,Benign,
+D1-0275,R,26,2,both,Benign,
+D1-0276,L,51,2,both,Benign,
+D1-0277,L,49,2,both,Benign,
+D1-0278,R,64,2,both,Benign,
+D1-0279,L,52,2,both,Benign,
+D1-0279,R,52,2,both,Benign,
+D1-0280,R,39,2,both,Benign,
+D1-0281,L,52,2,both,Benign,
+D1-0281,R,52,2,both,Benign,
+D1-0282,R,35,2,both,Benign,
+D1-0283,R,50,2,both,Benign,
+D1-0284,R,38,2,both,Benign,
+D1-0285,R,40,2,both,Benign,
+D1-0286,L,58,2,both,Benign,
+D1-0287,L,52,2,both,Benign,
+D1-0288,R,38,2,both,Benign,
+D1-0289,R,33,2,both,Benign,
+D1-0290,R,32,2,both,Benign,
+D1-0291,L,47,2,both,Benign,
+D1-0292,R,30,2,both,Benign,
+D1-0293,R,43,2,both,Benign,
+D1-0294,R,67,2,both,Benign,
+D1-0295,L,40,2,both,Benign,
+D1-0295,R,40,2,both,Benign,
+D1-0296,L,40,2,both,Benign,
+D1-0297,L,42,2,both,Benign,
+D1-0298,R,43,2,both,Benign,
+D1-0299,L,46,2,both,Benign,
+D1-0300,L,45,2,both,Benign,
+D1-0300,R,45,2,both,Benign,
+D1-0301,L,33,2,both,Benign,
+D1-0303,L,51,2,both,Malignant,
+D1-0304,L,61,2,both,Malignant,
+D1-0306,L,68,2,both,Malignant,
+D1-0309,L,53,2,both,Malignant,
+D1-0310,L,50,2,both,Malignant,
+D1-0310,R,50,2,both,Benign,
+D1-0313,R,33,2,both,Malignant,
+D1-0321,L,45,2,both,Malignant,
+D1-0322,R,59,2,both,Malignant,
+D1-0324,L,58,2,both,Malignant,
+D1-0326,L,63,2,both,Malignant,
+D1-0328,R,43,2,both,Malignant,
+D1-0331,L,67,2,both,Malignant,
+D1-0332,R,52,2,both,Malignant,
+D1-0335,L,48,2,both,Malignant,
+D1-0335,R,48,2,both,Benign,
+D1-0338,L,48,2,both,Malignant,
+D1-0340,L,49,2,both,Malignant,
+D1-0342,L,54,2,both,Malignant,
+D1-0344,R,69,2,both,Malignant,
+D1-0350,R,46,2,both,Malignant,
+D1-0351,R,63,2,both,Malignant,
+D1-0355,R,41,2,both,Malignant,
+D1-0356,L,52,2,both,Malignant,
+D1-0358,L,49,2,both,Malignant,
+D1-0362,L,49,2,both,Malignant,
+D1-0363,L,41,2,both,Malignant,
+D1-0364,L,62,2,both,Malignant,
+D1-0365,R,78,2,both,Malignant,
+D1-0366,L,40,2,both,Malignant,
+D1-0367,R,51,2,both,Malignant,
+D1-0368,L,41,2,both,Malignant,
+D1-0369,R,53,2,both,Malignant,
+D1-0372,L,31,2,both,Malignant,
+D1-0373,L,41,2,both,Malignant,
+D1-0373,R,41,2,both,Benign,
+D1-0374,R,41,2,both,Malignant,
+D1-0376,R,41,2,both,Malignant,
+D1-0378,L,56,2,both,Malignant,
+D1-0380,L,42,2,both,Malignant,
+D1-0381,R,38,2,both,Malignant,
+D1-0387,L,38,2,both,Malignant,
+D1-0388,L,74,2,both,Malignant,
+D1-0389,L,57,2,both,Malignant,
+D1-0390,L,51,2,both,Malignant,
+D1-0391,L,58,2,both,Malignant,
+D1-0392,R,45,2,both,Malignant,
+D1-0393,L,60,2,both,Malignant,
+D1-0394,L,42,2,both,Malignant,
+D1-0396,L,49,2,both,Malignant,
+D1-0397,R,50,2,both,Malignant,
+D1-0398,R,29,2,both,Malignant,
+D1-0400,R,32,2,both,Malignant,
+D1-0410,L,43,2,both,Malignant,
+D1-0411,L,62,2,both,Malignant,
+D1-0413,L,42,2,both,Malignant,
+D1-0414,R,58,2,both,Malignant,
+D1-0420,L,70,2,both,Malignant,
+D1-0422,R,43,2,both,Malignant,
+D1-0423,L,62,2,both,Malignant,
+D1-0427,L,62,2,both,Malignant,
+D1-0428,L,62,2,both,Malignant,
+D1-0430,R,48,2,both,Malignant,
+D1-0433,R,48,2,both,Malignant,
+D1-0435,R,41,2,both,Malignant,
+D1-0436,L,48,2,both,Malignant,
+D1-0439,R,54,2,both,Malignant,
+D1-0449,R,45,2,both,Malignant,
+D1-0450,L,41,2,both,Malignant,
+D1-0451,L,64,2,both,Malignant,
+D1-0452,R,59,2,both,Malignant,
+D1-0453,R,57,2,both,Malignant,
+D1-0455,L,58,2,both,Malignant,
+D1-0457,L,36,2,both,Malignant,
+D1-0461,L,33,2,both,Malignant,
+D1-0462,L,44,2,both,Malignant,
+D1-0463,L,43,2,both,Malignant,
+D1-0464,L,45,2,both,Malignant,
+D1-0467,L,61,2,both,Malignant,
+D1-0472,L,52,2,both,Malignant,
+D1-0500,R,67,2,both,Malignant,
+D1-0501,L,48,2,both,Malignant,
+D1-0503,L,45,2,both,Malignant,
+D1-0508,L,45,2,both,Malignant,
+D1-0510,R,41,2,both,Malignant,
+D1-0511,R,56,2,both,Malignant,
+D1-0513,R,56,2,both,Malignant,
+D1-0514,L,44,2,both,Malignant,
+D1-0515,L,53,2,both,Malignant,
+D1-0516,R,48,2,both,Malignant,
+D1-0517,L,62,2,both,Malignant,
+D1-0519,R,32,2,both,Malignant,
+D1-0522,R,50,2,both,Malignant,
+D1-0525,R,43,2,both,Malignant,
+D1-0530,L,31,2,both,Malignant,
+D1-0531,R,50,2,both,Malignant,
+D1-0540,R,65,2,both,Malignant,
+D1-0541,L,58,2,both,Malignant,
+D1-0543,L,38,2,both,Malignant,
+D1-0546,L,52,2,both,Malignant,
+D1-0552,R,53,2,both,Malignant,
+D1-0556,L,45,2,both,Malignant,
+D1-0563,R,56,2,both,Malignant,
+D1-0564,R,49,2,both,Malignant,
+D1-0566,L,34,2,both,Malignant,
+D1-0568,R,38,2,both,Malignant,
+D1-0569,R,55,2,both,Malignant,
+D1-0575,L,51,2,both,Malignant,
+D1-0577,R,64,2,both,Malignant,
+D1-0578,L,41,2,both,Malignant,
+D1-0579,R,53,2,both,Malignant,
+D1-0584,R,67,2,both,Malignant,
+D1-0586,L,52,2,both,Malignant,
+D1-0587,R,35,2,both,Malignant,
+D1-0590,L,47,2,both,Malignant,
+D1-0594,L,71,2,both,Malignant,
+D1-0597,L,32,2,both,Malignant,
+D1-0599,L,78,2,both,Malignant,
+D1-0600,R,43,2,both,Malignant,
+D1-0603,L,60,2,both,Malignant,
+D1-0606,R,39,2,both,Malignant,
+D1-0607,R,40,2,both,Malignant,
+D1-0609,L,45,2,both,Malignant,
+D1-0609,R,45,2,both,Benign,
+D1-0612,L,36,2,both,Malignant,
+D1-0616,L,58,2,both,Malignant,
+D1-0620,L,35,2,both,Malignant,
+D1-0624,R,55,2,both,Malignant,
+D1-0631,R,50,2,both,Malignant,
+D1-0633,R,53,2,both,Malignant,
+D1-0636,L,68,2,both,Malignant,
+D1-0637,L,73,2,both,Malignant,
+D1-0639,L,36,2,both,Malignant,
+D1-0641,L,53,2,both,Malignant,
+D1-0642,R,66,2,both,Malignant,
+D1-0647,L,53,2,both,Malignant,
+D1-0649,L,49,2,both,Malignant,
+D1-0653,L,58,2,both,Malignant,
+D1-0656,L,61,2,both,Malignant,
+D1-0658,R,52,2,both,Malignant,
+D1-0662,L,56,2,both,Malignant,
+D1-0663,L,58,2,both,Malignant,
+D1-0664,R,51,2,both,Malignant,
+D1-0666,L,50,2,both,Malignant,
+D1-0666,R,50,2,both,Malignant,
+D1-0667,L,54,2,both,Malignant,
+D1-0672,R,54,2,both,Malignant,
+D1-0677,R,51,2,both,Malignant,
+D1-0678,L,33,2,both,Malignant,
+D1-0679,L,48,2,both,Malignant,
+D1-0681,L,37,2,mass,Benign,
+D1-0681,R,37,2,mass,Benign,
+D1-0682,R,50,2,mass,Benign,
+D1-0683,L,51,2,mass,Benign,
+D1-0684,R,44,2,mass,Benign,
+D1-0685,R,32,2,mass,Benign,
+D1-0686,L,46,2,mass,Benign,
+D1-0687,L,46,2,mass,Benign,
+D1-0687,R,46,2,mass,Benign,
+D1-0688,R,32,2,mass,Benign,
+D1-0689,L,56,2,mass,Benign,
+D1-0690,R,58,2,mass,Benign,
+D1-0691,R,43,2,mass,Benign,
+D1-0692,L,48,2,mass,Benign,
+D1-0693,R,48,2,mass,Benign,
+D1-0694,L,68,2,mass,Benign,
+D1-0695,L,67,2,mass,Benign,
+D1-0696,R,47,2,mass,Benign,
+D1-0697,L,36,2,mass,Benign,
+D1-0698,R,51,2,mass,Benign,
+D1-0699,R,48,2,mass,Benign,
+D1-0700,L,37,2,mass,Benign,
+D1-0701,L,50,2,mass,Benign,
+D1-0702,R,44,2,mass,Benign,
+D1-0703,L,26,2,mass,Benign,
+D1-0704,L,28,2,mass,Benign,
+D1-0705,L,40,2,mass,Benign,
+D1-0706,R,45,2,mass,Benign,
+D1-0707,L,43,2,mass,Benign,
+D1-0708,L,45,2,mass,Benign,
+D1-0708,R,45,2,mass,Benign,
+D1-0709,L,55,2,mass,Benign,
+D1-0710,R,21,2,mass,Benign,
+D1-0711,L,45,2,mass,Benign,
+D1-0712,R,18,2,mass,Benign,
+D1-0713,R,51,2,mass,Benign,
+D1-0714,L,17,2,mass,Benign,
+D1-0715,R,26,2,mass,Benign,
+D1-0716,R,32,2,mass,Benign,
+D1-0717,L,39,2,mass,Benign,
+D1-0718,R,31,2,mass,Benign,
+D1-0719,L,49,2,mass,Benign,
+D1-0720,R,41,2,mass,Benign,
+D1-0721,R,47,2,mass,Benign,
+D1-0722,L,36,2,mass,Benign,
+D1-0723,L,36,2,mass,Benign,
+D1-0724,L,32,2,mass,Benign,
+D1-0725,R,29,2,mass,Benign,
+D1-0726,L,39,2,mass,Benign,
+D1-0727,L,35,2,mass,Benign,
+D1-0728,R,36,2,mass,Benign,
+D1-0729,L,83,2,mass,Benign,
+D1-0730,R,67,2,mass,Benign,
+D1-0731,R,39,2,mass,Benign,
+D1-0732,L,44,2,mass,Benign,
+D1-0733,L,38,2,mass,Benign,
+D1-0734,R,45,2,mass,Benign,
+D1-0735,L,47,2,mass,Benign,
+D1-0736,L,40,2,mass,Benign,
+D1-0737,L,35,2,mass,Benign,
+D1-0738,R,36,2,mass,Benign,
+D1-0739,R,27,2,mass,Benign,
+D1-0740,L,44,2,mass,Benign,
+D1-0741,L,43,2,mass,Benign,
+D1-0742,L,34,2,mass,Benign,
+D1-0742,R,34,2,mass,Benign,
+D1-0743,L,46,2,mass,Benign,
+D1-0744,R,43,2,mass,Benign,
+D1-0745,L,42,2,mass,Benign,
+D1-0746,L,23,2,mass,Benign,
+D1-0747,L,41,2,mass,Benign,
+D1-0748,R,41,2,mass,Benign,
+D1-0749,R,47,2,mass,Benign,
+D1-0750,L,42,2,mass,Benign,
+D1-0750,R,42,2,mass,Benign,
+D1-0751,R,43,2,mass,Benign,
+D1-0752,L,40,2,mass,Benign,
+D1-0753,L,24,2,mass,Benign,
+D1-0754,R,42,2,mass,Benign,
+D1-0755,L,38,2,mass,Benign,
+D1-0756,L,39,2,mass,Benign,
+D1-0757,R,52,2,mass,Benign,
+D1-0758,L,29,2,mass,Benign,
+D1-0759,L,60,2,mass,Benign,
+D1-0759,R,60,2,mass,Benign,
+D1-0760,L,38,2,mass,Benign,
+D1-0761,R,48,2,mass,Benign,
+D1-0762,R,66,2,mass,Benign,
+D1-0763,R,45,2,mass,Benign,
+D1-0764,L,35,2,mass,Benign,
+D1-0764,R,35,2,mass,Benign,
+D1-0765,L,46,2,mass,Benign,
+D1-0766,L,39,2,mass,Benign,
+D1-0767,L,46,2,mass,Benign,
+D1-0767,R,46,2,mass,Benign,
+D1-0768,R,48,2,mass,Benign,
+D1-0769,L,37,2,mass,Benign,
+D1-0770,L,23,2,mass,Benign,
+D1-0770,R,23,2,mass,Benign,
+D1-0771,L,45,2,mass,Benign,
+D1-0772,L,29,2,mass,Benign,
+D1-0773,R,48,2,mass,Benign,
+D1-0774,L,19,2,mass,Benign,
+D1-0774,R,19,2,mass,Benign,
+D1-0775,L,46,2,mass,Benign,
+D1-0776,R,46,2,mass,Benign,
+D1-0777,R,34,2,mass,Benign,
+D1-0778,R,38,2,mass,Benign,
+D1-0779,L,43,2,mass,Benign,
+D1-0780,L,38,2,mass,Benign,
+D1-0781,L,46,2,mass,Benign,
+D1-0782,L,46,2,mass,Benign,
+D1-0783,L,39,2,mass,Benign,
+D1-0784,L,35,2,mass,Benign,
+D1-0785,R,55,2,mass,Benign,
+D1-0786,L,56,2,mass,Benign,
+D1-0786,R,56,2,mass,Benign,
+D1-0787,R,40,2,mass,Benign,
+D1-0788,L,48,2,mass,Benign,
+D1-0788,R,48,2,mass,Benign,
+D1-0789,R,41,2,mass,Benign,
+D1-0790,L,34,2,mass,Benign,
+D1-0791,R,37,2,mass,Benign,
+D1-0792,R,39,2,mass,Benign,
+D1-0793,L,55,2,mass,Benign,
+D1-0794,R,29,2,mass,Benign,
+D1-0795,R,47,2,mass,Benign,
+D1-0796,R,45,2,mass,Benign,
+D1-0797,R,40,2,mass,Benign,
+D1-0798,L,48,2,mass,Benign,
+D1-0799,L,52,2,mass,Benign,
+D1-0800,L,44,2,mass,Benign,
+D1-0801,L,23,2,mass,Benign,
+D1-0801,R,23,2,mass,Benign,
+D1-0802,L,37,2,mass,Benign,
+D1-0802,R,37,2,mass,Benign,
+D1-0803,R,46,2,mass,Benign,
+D1-0804,L,37,2,mass,Benign,
+D1-0805,R,34,2,mass,Benign,
+D1-0806,R,33,2,mass,Benign,
+D1-0807,R,36,2,mass,Benign,
+D1-0808,R,45,2,mass,Benign,
+D1-0809,R,36,2,mass,Benign,
+D1-0810,R,29,2,mass,Benign,
+D1-0811,L,46,2,mass,Benign,
+D1-0812,L,44,2,mass,Benign,
+D1-0813,L,33,2,mass,Benign,
+D1-0814,L,67,2,mass,Benign,
+D1-0815,R,41,2,mass,Benign,
+D1-0816,L,59,2,mass,Benign,
+D1-0816,R,59,2,mass,Benign,
+D1-0817,R,46,2,mass,Benign,
+D1-0818,R,39,2,mass,Benign,
+D1-0819,R,48,2,mass,Benign,
+D1-0820,L,65,2,mass,Benign,
+D1-0820,R,65,2,mass,Benign,
+D1-0821,R,42,2,mass,Benign,
+D1-0822,L,32,2,mass,Benign,
+D1-0823,L,35,2,mass,Benign,
+D1-0824,R,31,2,mass,Benign,
+D1-0825,L,43,2,mass,Benign,
+D1-0826,L,39,2,mass,Benign,
+D1-0827,L,47,2,mass,Benign,
+D1-0828,L,43,2,mass,Benign,
+D1-0828,R,43,2,mass,Benign,
+D1-0829,L,47,2,mass,Benign,
+D1-0830,L,63,2,mass,Benign,
+D1-0830,R,63,2,mass,Benign,
+D1-0831,R,43,2,mass,Benign,
+D1-0832,R,46,2,mass,Benign,
+D1-0833,R,38,2,mass,Benign,
+D1-0834,R,25,2,mass,Benign,
+D1-0835,L,46,2,mass,Benign,
+D1-0836,R,60,2,mass,Benign,
+D1-0837,R,50,2,mass,Benign,
+D1-0838,R,53,2,mass,Benign,
+D1-0839,L,48,2,mass,Benign,
+D1-0840,L,44,2,mass,Benign,
+D1-0841,L,34,2,mass,Benign,
+D1-0842,L,38,2,mass,Benign,
+D1-0843,R,38,2,mass,Benign,
+D1-0844,R,43,2,mass,Benign,
+D1-0845,L,42,2,mass,Benign,
+D1-0845,R,42,2,mass,Benign,
+D1-0846,R,36,2,mass,Benign,
+D1-0847,R,44,2,mass,Benign,
+D1-0848,L,47,2,mass,Benign,
+D1-0849,R,44,2,mass,Benign,
+D1-0850,R,46,2,mass,Benign,
+D1-0851,L,47,2,mass,Benign,
+D1-0852,L,41,2,mass,Benign,
+D1-0853,L,56,2,mass,Benign,
+D1-0853,R,56,2,mass,Benign,
+D1-0854,R,41,2,mass,Benign,
+D1-0855,L,31,2,mass,Benign,
+D1-0856,R,24,2,mass,Benign,
+D1-0857,L,46,2,mass,Benign,
+D1-0858,L,36,2,mass,Benign,
+D1-0859,L,39,2,mass,Benign,
+D1-0860,L,40,2,mass,Benign,
+D1-0861,L,48,2,mass,Benign,
+D1-0862,L,56,2,mass,Benign,
+D1-0862,R,56,2,mass,Benign,
+D1-0863,L,42,2,mass,Benign,
+D1-0863,R,42,2,mass,Benign,
+D1-0864,L,47,2,mass,Benign,
+D1-0865,L,38,2,mass,Benign,
+D1-0866,L,41,2,mass,Benign,
+D1-0867,L,35,2,mass,Benign,
+D1-0868,L,46,2,mass,Benign,
+D1-0869,L,45,2,mass,Benign,
+D1-0869,R,45,2,mass,Benign,
+D1-0870,R,46,2,mass,Benign,
+D1-0871,L,43,2,mass,Benign,
+D1-0872,L,40,2,mass,Benign,
+D1-0873,L,42,2,mass,Benign,
+D1-0874,L,48,2,mass,Benign,
+D1-0874,R,48,2,mass,Benign,
+D1-0875,L,44,2,mass,Benign,
+D1-0875,R,44,2,mass,Benign,
+D1-0876,L,44,2,mass,Benign,
+D1-0876,R,44,2,mass,Benign,
+D1-0877,R,52,2,mass,Benign,
+D1-0878,R,43,2,mass,Benign,
+D1-0879,R,35,2,mass,Benign,
+D1-0880,L,35,2,mass,Benign,
+D1-0881,L,32,2,mass,Benign,
+D1-0882,R,40,2,mass,Benign,
+D1-0883,L,33,2,mass,Benign,
+D1-0884,L,43,2,mass,Benign,
+D1-0884,R,43,2,mass,Benign,
+D1-0885,R,27,2,mass,Benign,
+D1-0886,R,32,2,mass,Benign,
+D1-0887,L,53,2,mass,Benign,
+D1-0888,L,51,2,mass,Benign,
+D1-0889,L,41,2,mass,Benign,
+D1-0890,R,53,2,mass,Benign,
+D1-0891,R,49,2,mass,Benign,
+D1-0892,L,35,2,mass,Benign,
+D1-0892,R,35,2,mass,Benign,
+D1-0893,L,35,2,mass,Benign,
+D1-0894,L,37,2,mass,Benign,
+D1-0894,R,37,2,mass,Benign,
+D1-0895,R,40,2,mass,Benign,
+D1-0896,R,52,2,mass,Benign,
+D1-0897,L,38,2,mass,Benign,
+D1-0898,L,35,2,mass,Benign,
+D1-0899,L,36,2,mass,Benign,
+D1-0900,L,50,2,mass,Benign,
+D1-0901,L,39,2,mass,Benign,
+D1-0901,R,39,2,mass,Benign,
+D1-0902,L,48,2,mass,Benign,
+D1-0903,R,51,2,mass,Benign,
+D1-0904,L,21,2,mass,Benign,
+D1-0904,R,21,2,mass,Benign,
+D1-0905,L,45,2,mass,Benign,
+D1-0906,R,38,2,mass,Benign,
+D1-0907,L,48,2,mass,Benign,
+D1-0908,L,45,2,mass,Benign,
+D1-0908,R,45,2,mass,Benign,
+D1-0909,R,30,2,mass,Benign,
+D1-0910,L,41,2,mass,Benign,
+D1-0911,R,28,2,mass,Benign,
+D1-0912,L,49,2,mass,Benign,
+D1-0913,R,34,2,mass,Benign,
+D1-0914,L,43,2,mass,Benign,
+D1-0915,L,50,2,mass,Benign,
+D1-0916,R,27,2,mass,Benign,
+D1-0917,R,49,2,mass,Benign,
+D1-0918,R,32,2,mass,Benign,
+D1-0919,L,40,2,mass,Benign,
+D1-0919,R,40,2,mass,Benign,
+D1-0920,L,39,2,mass,Benign,
+D1-0921,R,32,2,mass,Benign,
+D1-0922,R,36,2,mass,Benign,
+D1-0923,R,39,2,mass,Benign,
+D1-0924,L,54,2,mass,Benign,
+D1-0925,R,47,2,mass,Benign,
+D1-0926,R,44,2,mass,Benign,
+D1-0927,L,45,2,mass,Benign,
+D1-0928,L,32,2,mass,Benign,
+D1-0929,L,54,2,mass,Benign,
+D1-0929,R,54,2,mass,Benign,
+D1-0930,R,39,2,mass,Benign,
+D1-0931,L,46,2,mass,Benign,
+D1-0931,R,46,2,mass,Benign,
+D1-0932,L,38,2,mass,Benign,
+D1-0932,R,38,2,mass,Benign,
+D1-0933,L,28,2,mass,Benign,
+D1-0934,L,42,2,mass,Benign,
+D1-0935,R,25,2,mass,Benign,
+D1-0936,R,45,2,mass,Benign,
+D1-0937,L,59,2,mass,Benign,
+D1-0938,R,47,2,mass,Benign,
+D1-0939,L,34,2,mass,Benign,
+D1-0940,R,37,2,mass,Benign,
+D1-0941,R,32,2,mass,Benign,
+D1-0942,R,37,2,mass,Benign,
+D1-0943,L,47,2,mass,Benign,
+D1-0944,L,39,2,mass,Benign,
+D1-0945,R,49,2,mass,Benign,
+D1-0946,L,44,2,mass,Benign,
+D1-0947,R,33,2,mass,Benign,
+D1-0948,L,34,2,mass,Benign,
+D1-0949,L,59,2,mass,Benign,
+D1-0950,L,48,2,mass,Benign,
+D1-0951,R,58,2,mass,Benign,
+D1-0952,L,46,2,mass,Benign,
+D1-0953,L,37,2,mass,Benign,
+D1-0954,R,44,2,mass,Benign,
+D1-0955,L,43,2,mass,Benign,
+D1-0955,R,43,2,mass,Benign,
+D1-0956,L,39,2,mass,Benign,
+D1-0957,R,59,2,mass,Benign,
+D1-0958,R,46,2,mass,Benign,
+D1-0959,L,51,2,mass,Benign,
+D1-0960,R,58,2,mass,Benign,
+D1-0961,L,39,2,mass,Benign,
+D1-0962,L,40,2,mass,Benign,
+D1-0963,L,37,2,mass,Benign,
+D1-0964,R,64,2,mass,Benign,
+D1-0965,L,46,2,mass,Benign,
+D1-0966,L,49,2,mass,Benign,
+D1-0967,L,35,2,mass,Benign,
+D1-0968,R,23,2,mass,Benign,
+D1-0969,R,52,2,mass,Benign,
+D1-0970,L,56,2,mass,Benign,
+D1-0971,L,48,2,mass,Benign,
+D1-0972,R,49,2,mass,Benign,
+D1-0973,R,46,2,mass,Benign,
+D1-0974,R,36,2,mass,Benign,
+D1-0975,R,23,2,mass,Benign,
+D1-0976,R,44,2,mass,Benign,
+D1-0977,L,45,2,mass,Benign,
+D1-0978,R,40,2,mass,Benign,
+D1-0979,R,39,2,mass,Benign,
+D1-0980,R,52,2,mass,Benign,
+D1-0981,L,44,2,mass,Benign,
+D1-0982,L,28,2,mass,Benign,
+D1-0983,L,43,2,mass,Benign,
+D1-0984,L,42,2,mass,Benign,
+D1-0985,L,20,2,mass,Benign,
+D1-0986,R,43,2,mass,Benign,
+D1-0987,R,24,2,mass,Benign,
+D1-0988,R,36,2,mass,Benign,
+D1-0989,R,47,2,mass,Benign,
+D1-0990,L,59,2,mass,Benign,
+D1-0990,R,59,2,mass,Benign,
+D1-0991,L,28,2,mass,Benign,
+D1-0991,R,28,2,mass,Benign,
+D1-0992,L,24,2,mass,Benign,
+D1-0993,R,43,2,mass,Benign,
+D1-0994,L,41,2,mass,Benign,
+D1-0995,L,40,2,mass,Benign,
+D1-0996,L,44,2,mass,Benign,
+D1-0997,R,58,2,mass,Benign,
+D1-0998,R,44,2,mass,Benign,
+D1-0999,L,84,2,mass,Benign,
+D1-0999,R,84,2,mass,Benign,
+D1-1000,L,31,2,mass,Benign,
+D1-1001,R,32,2,mass,Benign,
+D1-1002,R,39,2,mass,Benign,
+D1-1003,R,64,2,mass,Benign,
+D1-1004,R,41,2,mass,Benign,
+D1-1005,R,43,2,mass,Benign,
+D1-1006,R,51,2,mass,Benign,
+D1-1007,R,40,2,mass,Benign,
+D1-1008,L,51,2,mass,Benign,
+D1-1009,L,47,2,mass,Benign,
+D1-1009,R,47,2,mass,Benign,
+D1-1010,L,41,2,mass,Benign,
+D1-1011,R,32,2,mass,Benign,
+D1-1012,R,45,2,mass,Benign,
+D1-1013,R,64,2,mass,Benign,
+D1-1014,L,42,2,mass,Benign,
+D1-1015,L,41,2,mass,Benign,
+D1-1016,R,31,2,mass,Benign,
+D1-1017,R,43,2,mass,Benign,
+D1-1018,L,58,2,mass,Benign,
+D1-1019,L,61,2,mass,Benign,
+D1-1020,L,48,2,mass,Benign,
+D1-1021,R,37,2,mass,Benign,
+D1-1022,R,38,2,mass,Benign,
+D1-1023,L,47,2,mass,Benign,
+D1-1024,R,47,2,mass,Benign,
+D1-1025,R,32,2,mass,Benign,
+D1-1026,L,46,2,mass,Benign,
+D1-1027,R,40,2,mass,Benign,
+D1-1028,L,45,2,mass,Benign,
+D1-1029,L,19,2,mass,Benign,
+D1-1029,R,19,2,mass,Benign,
+D1-1030,L,38,2,mass,Benign,
+D1-1031,R,49,2,mass,Benign,
+D1-1032,R,49,2,mass,Benign,
+D1-1033,L,45,2,mass,Benign,
+D1-1034,R,54,2,mass,Benign,
+D1-1035,L,50,2,mass,Benign,
+D1-1036,L,37,2,mass,Benign,
+D1-1036,R,37,2,mass,Benign,
+D1-1037,L,49,2,mass,Benign,
+D1-1038,R,33,2,mass,Benign,
+D1-1039,L,43,2,mass,Benign,
+D1-1040,R,41,2,mass,Benign,
+D1-1041,L,49,2,mass,Benign,
+D1-1042,L,82,2,mass,Malignant,
+D1-1045,R,62,2,mass,Malignant,
+D1-1047,L,41,2,mass,Malignant,
+D1-1048,R,41,2,mass,Benign,
+D1-1050,L,61,2,mass,Malignant,
+D1-1053,R,46,2,mass,Malignant,
+D1-1054,L,42,2,mass,Malignant,
+D1-1055,L,61,2,mass,Malignant,
+D1-1056,L,47,2,mass,Malignant,
+D1-1057,L,40,2,mass,Malignant,
+D1-1059,L,47,2,mass,Benign,
+D1-1059,R,47,2,mass,Malignant,
+D1-1061,L,50,2,mass,Malignant,
+D1-1066,R,42,2,mass,Malignant,
+D1-1068,L,43,2,mass,Malignant,
+D1-1069,L,70,2,mass,Malignant,
+D1-1071,L,41,2,mass,Malignant,
+D1-1074,L,57,2,mass,Malignant,
+D1-1076,R,45,2,mass,Malignant,
+D1-1077,R,34,2,mass,Malignant,
+D1-1078,R,41,2,mass,Malignant,
+D1-1079,L,62,2,mass,Malignant,
+D1-1080,R,72,2,mass,Malignant,
+D1-1081,R,39,2,mass,Malignant,
+D1-1082,L,27,2,mass,Malignant,
+D1-1087,L,49,2,mass,Malignant,
+D1-1094,R,38,2,mass,Malignant,
+D1-1095,L,56,2,mass,Malignant,
+D1-1098,R,54,2,mass,Malignant,
+D1-1100,L,39,2,mass,Malignant,
+D1-1101,L,46,2,mass,Malignant,
+D1-1106,R,62,2,mass,Malignant,
+D1-1107,L,61,2,mass,Malignant,
+D1-1111,L,39,2,mass,Malignant,
+D1-1115,R,33,2,mass,Malignant,
+D1-1118,L,66,2,mass,Malignant,
+D1-1120,R,48,2,mass,Malignant,
+D1-1124,R,49,2,mass,Malignant,
+D1-1125,R,58,2,mass,Malignant,
+D1-1126,R,49,2,mass,Malignant,
+D1-1129,R,59,2,mass,Malignant,
+D1-1133,L,60,2,mass,Malignant,
+D1-1135,R,43,2,mass,Malignant,
+D1-1138,R,44,2,mass,Malignant,
+D1-1139,L,36,2,mass,Malignant,
+D1-1140,R,49,2,mass,Malignant,
+D1-1149,L,70,2,mass,Malignant,
+D1-1150,L,50,2,mass,Malignant,
+D1-1151,L,74,2,mass,Malignant,
+D1-1154,L,58,2,mass,Malignant,
+D1-1155,L,61,2,mass,Malignant,
+D1-1156,L,58,2,mass,Malignant,
+D1-1163,L,41,2,mass,Malignant,
+D1-1166,R,49,2,mass,Malignant,
+D1-1167,L,34,2,mass,Malignant,
+D1-1168,L,41,2,mass,Malignant,
+D1-1169,R,32,2,mass,Malignant,
+D1-1170,R,35,2,mass,Malignant,
+D1-1173,L,42,2,mass,Malignant,
+D1-1174,L,56,2,mass,Malignant,
+D1-1178,L,45,2,mass,Malignant,
+D1-1180,R,46,2,mass,Malignant,
+D1-1181,R,57,2,mass,Malignant,
+D1-1183,R,32,2,mass,Malignant,
+D1-1184,R,58,2,mass,Malignant,
+D1-1185,L,39,2,mass,Malignant,
+D1-1187,L,56,2,mass,Malignant,
+D1-1189,L,53,2,mass,Malignant,
+D1-1192,L,70,2,mass,Malignant,
+D1-1193,L,65,2,mass,Malignant,
+D1-1196,R,32,2,mass,Malignant,
+D1-1197,R,40,2,mass,Malignant,
+D1-1199,R,62,2,mass,Malignant,
+D1-1200,R,53,2,mass,Malignant,
+D1-1201,L,54,2,mass,Malignant,
+D1-1203,L,54,2,mass,Malignant,
+D1-1205,L,37,2,mass,Malignant,
+D1-1206,R,58,2,mass,Malignant,
+D1-1208,L,39,2,mass,Malignant,
+D1-1211,R,40,2,mass,Malignant,
+D1-1213,L,46,2,mass,Malignant,
+D1-1218,L,49,2,mass,Malignant,
+D1-1220,L,34,2,mass,Benign,
+D1-1220,R,34,2,mass,Malignant,
+D1-1221,L,64,2,mass,Malignant,
+D1-1225,L,71,2,mass,Malignant,
+D1-1231,L,45,2,mass,Malignant,
+D1-1233,L,46,2,mass,Malignant,
+D1-1235,L,37,2,mass,Malignant,
+D1-1239,L,47,2,mass,Malignant,
+D1-1249,L,64,2,mass,Malignant,
+D1-1251,L,37,2,mass,Malignant,
+D1-1252,L,31,2,mass,Malignant,
+D1-1254,L,57,2,mass,Malignant,
+D1-1255,L,37,2,mass,Malignant,
+D1-1257,R,43,2,mass,Malignant,
+D1-1260,R,43,2,mass,Malignant,
+D1-1263,R,57,2,mass,Malignant,
+D1-1264,L,33,2,mass,Malignant,
+D1-1271,R,38,2,mass,Malignant,
+D1-1272,R,49,2,mass,Malignant,
+D1-1275,R,50,2,mass,Malignant,
+D1-1277,L,32,2,mass,Malignant,
+D1-1279,R,57,2,mass,Malignant,
+D1-1281,R,45,2,mass,Malignant,
+D1-1286,L,40,2,mass,Malignant,
+D1-1289,L,44,2,mass,Malignant,
+D1-1292,R,45,2,mass,Malignant,
+D1-1293,R,46,2,mass,Malignant,
+D1-1296,L,55,2,mass,Malignant,
+D1-1297,L,60,2,mass,Malignant,
+D1-1299,L,42,2,mass,Malignant,
+D1-1304,R,69,2,mass,Malignant,
+D1-1305,L,68,2,mass,Malignant,
+D1-1306,L,50,2,mass,Malignant,
+D1-1308,R,55,2,mass,Malignant,
+D1-1309,L,68,2,mass,Malignant,
+D1-1311,R,68,2,mass,Malignant,
+D1-1312,L,62,2,mass,Malignant,
+D1-1315,R,43,2,mass,Malignant,
+D1-1317,R,47,2,mass,Malignant,
+D1-1318,R,34,2,mass,Malignant,
+D1-1319,L,48,2,mass,Malignant,
+D1-1326,L,37,2,mass,Malignant,
+D1-1328,R,39,2,mass,Malignant,
+D1-1329,L,38,2,mass,Malignant,
+D1-1330,R,41,2,mass,Malignant,
+D1-1332,L,54,2,mass,Malignant,
+D1-1337,R,45,2,mass,Malignant,
+D1-1340,L,55,2,mass,Malignant,
+D1-1340,R,55,2,mass,Malignant,
+D1-1341,L,54,2,mass,Malignant,
+D1-1342,R,42,2,mass,Malignant,
+D1-1343,L,41,2,mass,Malignant,
+D1-1344,R,50,2,mass,Malignant,
+D1-1345,L,71,2,mass,Malignant,
+D1-1346,R,46,2,mass,Malignant,
+D1-1347,L,80,2,mass,Malignant,
+D1-1349,R,50,2,mass,Malignant,
+D1-1351,L,53,2,mass,Malignant,
+D1-1355,R,44,2,mass,Malignant,
+D1-1357,L,58,2,mass,Malignant,
+D1-1359,R,44,2,mass,Malignant,
+D1-1362,L,44,2,mass,Malignant,
+D1-1364,L,56,2,mass,Malignant,
+D1-1366,L,42,2,mass,Malignant,
+D1-1367,L,37,2,mass,Malignant,
+D1-1373,R,59,2,mass,Malignant,
+D1-1375,L,50,2,mass,Malignant,
+D1-1376,R,42,2,mass,Malignant,
+D1-1377,L,61,2,mass,Malignant,
+D1-1379,R,67,2,mass,Malignant,
+D1-1380,L,46,2,mass,Malignant,
+D1-1381,R,32,2,mass,Malignant,
+D1-1384,R,50,2,mass,Malignant,
+D1-1392,R,52,2,mass,Malignant,
+D1-1393,L,57,2,mass,Malignant,
+D1-1395,R,60,2,mass,Malignant,
+D1-1397,R,48,2,mass,Malignant,
+D1-1399,R,45,2,mass,Malignant,
+D1-1402,L,43,2,mass,Malignant,
+D1-1403,L,38,2,mass,Malignant,
+D1-1405,R,47,2,mass,Malignant,
+D1-1406,R,56,2,mass,Malignant,
+D1-1411,R,41,2,mass,Malignant,
+D1-1413,L,42,2,mass,Malignant,
+D1-1417,R,45,2,mass,Malignant,
+D1-1418,R,58,2,mass,Malignant,
+D1-1421,R,45,2,mass,Malignant,
+D1-1426,R,52,2,mass,Malignant,
+D1-1427,L,51,2,mass,Malignant,
+D1-1431,L,46,2,mass,Malignant,
+D1-1432,L,44,2,mass,Malignant,
+D1-1433,R,59,2,mass,Malignant,
+D1-1434,R,53,2,mass,Malignant,
+D1-1435,R,51,2,mass,Malignant,
+D1-1437,R,52,2,mass,Malignant,
+D1-1438,L,38,2,mass,Malignant,
+D1-1442,R,53,2,mass,Malignant,
+D1-1444,L,38,2,mass,Malignant,
+D1-1445,L,41,2,mass,Malignant,
+D1-1452,L,78,2,mass,Malignant,
+D1-1457,R,43,2,mass,Malignant,
+D1-1469,L,57,2,mass,Malignant,
+D1-1470,L,52,2,mass,Malignant,
+D1-1478,L,63,2,mass,Malignant,
+D1-1480,R,39,2,mass,Malignant,
+D1-1481,R,39,2,mass,Malignant,
+D1-1483,R,52,2,mass,Malignant,
+D1-1484,L,44,2,mass,Malignant,
+D1-1488,R,46,2,mass,Malignant,
+D1-1490,L,47,2,mass,Malignant,
+D1-1492,L,52,2,mass,Malignant,
+D1-1493,R,58,2,mass,Malignant,
+D1-1494,L,48,2,mass,Malignant,
+D1-1498,L,42,2,mass,Malignant,
+D1-1506,R,50,2,mass,Malignant,
+D1-1509,L,46,2,mass,Malignant,
+D1-1510,L,49,2,mass,Malignant,
+D1-1517,R,39,2,mass,Malignant,
+D1-1518,R,52,2,mass,Malignant,
+D1-1519,L,45,2,mass,Malignant,
+D1-1523,L,62,2,mass,Malignant,
+D1-1525,R,56,2,mass,Malignant,
+D1-1526,R,41,2,mass,Malignant,
+D1-1527,L,64,2,mass,Malignant,
+D1-1528,L,52,2,mass,Malignant,
+D1-1529,R,53,2,mass,Malignant,
+D1-1530,R,69,2,mass,Malignant,
+D1-1532,L,46,2,mass,Malignant,
+D1-1533,L,45,2,mass,Malignant,
+D1-1534,R,50,2,mass,Malignant,
+D1-1536,L,37,2,mass,Malignant,
+D1-1539,L,75,2,mass,Malignant,
+D1-1544,L,66,2,mass,Malignant,
+D1-1545,L,41,2,mass,Malignant,
+D1-1548,R,42,2,mass,Malignant,
+D1-1550,L,52,2,mass,Malignant,
+D1-1551,L,59,2,mass,Malignant,
+D1-1553,L,42,2,mass,Malignant,
+D1-1554,L,48,2,mass,Malignant,
+D1-1555,L,28,2,mass,Malignant,
+D1-1558,R,50,2,mass,Malignant,
+D1-1559,R,49,2,mass,Malignant,
+D1-1561,L,65,2,mass,Malignant,
+D1-1562,R,39,2,mass,Malignant,
+D1-1563,L,48,2,mass,Malignant,
+D1-1565,L,57,2,mass,Malignant,
+D1-1569,L,45,2,mass,Malignant,
+D1-1572,R,67,2,mass,Malignant,
+D1-1575,R,51,2,mass,Malignant,
+D1-1576,R,44,2,mass,Malignant,
+D1-1577,R,32,2,mass,Malignant,
+D1-1578,R,51,2,mass,Malignant,
+D1-1580,L,35,2,mass,Malignant,
+D1-1586,L,48,2,mass,Malignant,
+D1-1588,R,43,2,mass,Malignant,
+D1-1590,L,48,2,mass,Malignant,
+D1-1590,R,48,2,mass,Benign,
+D1-1594,L,27,2,mass,Malignant,
+D1-1598,R,42,2,mass,Malignant,
+D1-1599,R,34,2,mass,Malignant,
+D1-1601,R,51,2,mass,Malignant,
+D1-1605,L,51,2,mass,Malignant,
+D1-1607,L,38,2,mass,Malignant,
+D1-1608,L,51,2,mass,Malignant,
+D1-1609,L,70,2,mass,Malignant,
+D1-1613,R,51,2,mass,Malignant,
+D1-1614,R,63,2,mass,Malignant,
+D1-1616,R,57,2,mass,Malignant,
+D1-1617,L,58,2,mass,Malignant,
+D1-1623,L,64,2,mass,Malignant,
+D1-1627,L,50,2,mass,Malignant,
+D1-1633,R,38,2,mass,Malignant,
+D1-1634,L,63,2,mass,Malignant,
+D1-1635,L,60,2,mass,Malignant,
+D1-1636,R,50,2,mass,Malignant,
+D1-1637,R,58,2,mass,Malignant,
+D1-1639,L,41,2,mass,Malignant,
+D1-1640,R,51,2,mass,Malignant,
+D1-1641,L,43,2,mass,Malignant,
+D1-1643,L,60,2,mass,Malignant,
+D1-1644,L,33,2,mass,Malignant,
+D1-1648,L,60,2,mass,Malignant,
+D1-1650,R,43,2,mass,Malignant,
+D1-1651,L,60,2,mass,Malignant,
+D1-1652,L,57,2,mass,Malignant,
+D1-1653,L,39,2,mass,Malignant,
+D1-1660,L,46,2,mass,Malignant,
+D1-1661,L,48,2,mass,Malignant,
+D1-1666,R,58,2,mass,Malignant,
+D1-1672,R,48,2,mass,Malignant,
+D1-1673,L,47,2,mass,Benign,
+D1-1673,R,47,2,mass,Malignant,
+D1-1674,L,33,2,mass,Malignant,
+D1-1677,R,61,2,mass,Malignant,
+D1-1685,R,50,2,mass,Malignant,
+D1-1687,L,58,2,mass,Malignant,
+D1-1689,L,45,2,mass,Malignant,
+D1-1690,L,47,2,mass,Malignant,
+D1-1691,R,66,2,mass,Malignant,
+D1-1693,L,50,2,mass,Malignant,
+D1-1694,L,53,2,mass,Malignant,
+D1-1696,R,75,2,mass,Malignant,
+D1-1698,R,26,2,mass,Malignant,
+D1-1704,L,39,2,mass,Malignant,
+D1-1708,R,48,2,mass,Malignant,
+D1-1710,R,58,2,mass,Malignant,
+D1-1713,L,42,2,mass,Malignant,
+D1-1714,R,62,2,mass,Malignant,
+D1-1715,L,51,2,mass,Malignant,
+D1-1716,L,48,2,mass,Malignant,
+D1-1717,R,50,2,mass,Malignant,
+D1-1718,L,51,2,mass,Malignant,
+D1-1719,L,73,2,mass,Malignant,
+D1-1721,L,46,2,mass,Malignant,
+D1-1723,L,49,2,mass,Malignant,
+D1-1726,R,60,2,mass,Malignant,
+D1-1727,R,47,2,mass,Malignant,
+D1-1730,R,41,2,mass,Malignant,
+D1-1731,L,71,2,mass,Malignant,
+D1-1732,L,48,2,mass,Malignant,
+D1-1734,L,53,2,mass,Malignant,
+D1-1737,L,54,2,mass,Malignant,
+D1-1740,L,49,2,mass,Malignant,
+D1-1743,R,51,2,mass,Malignant,
+D1-1746,R,49,2,mass,Malignant,
+D1-1749,L,39,2,mass,Malignant,
+D1-1750,R,51,2,mass,Malignant,
+D1-1751,L,56,2,mass,Malignant,
+D1-1752,L,38,2,mass,Malignant,
+D1-1753,L,37,2,mass,Malignant,
+D1-1756,R,59,2,mass,Malignant,
+D1-1757,L,30,2,mass,Malignant,
+D1-1758,R,27,2,mass,Malignant,
+D1-1761,R,45,2,mass,Malignant,
+D1-1765,L,45,2,mass,Malignant,
+D1-1766,L,53,2,mass,Malignant,
+D1-1768,R,44,2,mass,Malignant,
+D1-1769,L,33,2,mass,Malignant,
+D1-1771,L,51,2,mass,Malignant,
+D1-1775,L,37,2,mass,Malignant,
+D2-0001,L,64,2,calcification,Malignant,Luminal B
+D2-0002,R,69,2,calcification,Malignant,Luminal B
+D2-0003,L,44,2,calcification,Malignant,Luminal B
+D2-0004,L,38,2,calcification,Malignant,Luminal B
+D2-0005,R,41,2,calcification,Malignant,HER2-enriched
+D2-0006,R,33,2,calcification,Malignant,Luminal B
+D2-0007,R,41,2,calcification,Malignant,Luminal A
+D2-0008,R,35,2,calcification,Malignant,Luminal B
+D2-0009,R,35,2,calcification,Malignant,Luminal A
+D2-0010,R,44,2,calcification,Malignant,Luminal A
+D2-0011,R,31,2,calcification,Malignant,Luminal A
+D2-0012,L,32,2,calcification,Malignant,HER2-enriched
+D2-0013,L,57,2,calcification,Malignant,triple negative
+D2-0014,L,48,2,calcification,Malignant,Luminal B
+D2-0015,L,38,2,calcification,Malignant,Luminal B
+D2-0016,L,47,2,calcification,Malignant,Luminal A
+D2-0017,R,49,2,calcification,Malignant,HER2-enriched
+D2-0018,L,47,2,calcification,Malignant,Luminal A
+D2-0019,L,44,2,calcification,Malignant,Luminal B
+D2-0020,R,46,2,calcification,Malignant,HER2-enriched
+D2-0021,L,45,2,calcification,Malignant,Luminal A
+D2-0022,R,52,2,calcification,Malignant,HER2-enriched
+D2-0023,L,41,2,calcification,Malignant,triple negative
+D2-0024,L,41,2,calcification,Malignant,HER2-enriched
+D2-0025,L,54,2,calcification,Malignant,HER2-enriched
+D2-0026,L,46,2,calcification,Malignant,Luminal B
+D2-0026,R,46,2,calcification,Benign,
+D2-0027,R,41,2,calcification,Malignant,Luminal A
+D2-0028,L,44,2,calcification,Malignant,Luminal B
+D2-0028,R,44,2,calcification,Benign,
+D2-0029,R,32,2,calcification,Malignant,Luminal B
+D2-0030,R,43,2,calcification,Malignant,HER2-enriched
+D2-0031,R,41,2,calcification,Malignant,Luminal A
+D2-0032,R,35,2,calcification,Malignant,Luminal B
+D2-0033,L,35,2,calcification,Malignant,HER2-enriched
+D2-0034,L,67,2,calcification,Malignant,Luminal B
+D2-0035,R,32,2,calcification,Malignant,HER2-enriched
+D2-0036,R,48,2,calcification,Malignant,HER2-enriched
+D2-0037,L,61,2,calcification,Malignant,HER2-enriched
+D2-0038,L,61,2,calcification,Malignant,HER2-enriched
+D2-0039,R,44,2,calcification,Malignant,Luminal B
+D2-0040,L,28,2,calcification,Malignant,Luminal A
+D2-0041,R,40,2,calcification,Malignant,triple negative
+D2-0042,L,40,2,calcification,Malignant,Luminal A
+D2-0043,L,46,2,calcification,Malignant,Luminal A
+D2-0044,L,31,2,calcification,Malignant,Luminal A
+D2-0045,L,40,2,calcification,Malignant,Luminal B
+D2-0046,L,47,2,calcification,Malignant,HER2-enriched
+D2-0047,R,35,2,calcification,Malignant,triple negative
+D2-0048,L,54,2,calcification,Malignant,HER2-enriched
+D2-0049,R,55,2,calcification,Malignant,Luminal B
+D2-0050,R,33,2,calcification,Malignant,HER2-enriched
+D2-0051,L,60,2,calcification,Malignant,Luminal A
+D2-0052,L,57,2,calcification,Malignant,Luminal B
+D2-0053,R,46,2,calcification,Malignant,Luminal A
+D2-0054,L,47,2,calcification,Malignant,HER2-enriched
+D2-0055,R,50,2,calcification,Malignant,Luminal B
+D2-0056,R,55,2,calcification,Malignant,Luminal B
+D2-0057,R,51,2,calcification,Malignant,Luminal B
+D2-0058,L,43,2,calcification,Malignant,Luminal B
+D2-0059,R,25,2,calcification,Malignant,Luminal A
+D2-0060,L,60,2,calcification,Malignant,Luminal A
+D2-0061,R,38,2,calcification,Malignant,HER2-enriched
+D2-0062,R,49,2,calcification,Malignant,Luminal B
+D2-0063,R,33,2,calcification,Malignant,Luminal B
+D2-0064,L,53,2,calcification,Malignant,Luminal B
+D2-0065,L,46,2,calcification,Malignant,HER2-enriched
+D2-0066,L,57,2,calcification,Malignant,Luminal B
+D2-0067,R,34,2,calcification,Malignant,HER2-enriched
+D2-0068,L,50,2,calcification,Malignant,triple negative
+D2-0069,R,39,2,calcification,Malignant,HER2-enriched
+D2-0070,R,40,2,calcification,Malignant,HER2-enriched
+D2-0071,R,38,2,calcification,Malignant,Luminal B
+D2-0072,L,40,2,calcification,Malignant,triple negative
+D2-0072,R,40,2,calcification,Benign,
+D2-0073,L,58,2,calcification,Malignant,HER2-enriched
+D2-0074,L,53,2,calcification,Malignant,Luminal B
+D2-0075,L,33,2,calcification,Malignant,Luminal B
+D2-0076,L,39,2,calcification,Malignant,Luminal B
+D2-0077,R,46,2,calcification,Malignant,Luminal B
+D2-0078,R,60,2,calcification,Malignant,Luminal B
+D2-0079,R,50,2,calcification,Malignant,HER2-enriched
+D2-0080,L,47,2,calcification,Malignant,Luminal B
+D2-0080,R,47,2,calcification,Benign,
+D2-0081,L,52,2,calcification,Malignant,HER2-enriched
+D2-0082,R,52,2,calcification,Malignant,Luminal B
+D2-0083,R,56,2,calcification,Malignant,HER2-enriched
+D2-0084,L,54,2,calcification,Malignant,HER2-enriched
+D2-0085,L,44,2,calcification,Malignant,HER2-enriched
+D2-0086,L,46,2,calcification,Malignant,HER2-enriched
+D2-0087,L,45,2,calcification,Malignant,Luminal B
+D2-0088,L,58,2,calcification,Malignant,Luminal B
+D2-0089,R,36,2,calcification,Malignant,Luminal B
+D2-0090,L,60,2,calcification,Benign,
+D2-0090,R,60,2,calcification,Malignant,HER2-enriched
+D2-0091,R,35,2,calcification,Malignant,HER2-enriched
+D2-0092,L,46,2,calcification,Benign,
+D2-0092,R,46,2,calcification,Malignant,Luminal B
+D2-0093,R,31,2,calcification,Malignant,Luminal A
+D2-0094,R,47,2,calcification,Malignant,Luminal B
+D2-0095,L,37,2,calcification,Malignant,Luminal B
+D2-0096,R,39,2,calcification,Malignant,Luminal B
+D2-0097,L,56,2,calcification,Malignant,triple negative
+D2-0098,L,34,2,calcification,Malignant,Luminal B
+D2-0099,R,62,2,both,Malignant,Luminal A
+D2-0100,L,40,2,both,Malignant,Luminal B
+D2-0101,L,58,2,both,Malignant,Luminal B
+D2-0102,R,40,2,both,Malignant,Luminal A
+D2-0103,L,72,2,both,Malignant,Luminal B
+D2-0104,L,49,2,both,Malignant,HER2-enriched
+D2-0105,R,64,2,both,Malignant,Luminal B
+D2-0106,L,43,2,both,Malignant,Luminal B
+D2-0107,R,42,2,both,Malignant,Luminal B
+D2-0108,L,32,2,both,Malignant,Luminal A
+D2-0109,L,52,2,both,Malignant,Luminal B
+D2-0110,L,57,2,both,Malignant,HER2-enriched
+D2-0111,L,40,2,both,Malignant,HER2-enriched
+D2-0112,R,60,2,both,Malignant,Luminal B
+D2-0113,R,50,2,both,Malignant,Luminal B
+D2-0114,L,27,2,both,Malignant,Luminal B
+D2-0115,L,57,2,both,Malignant,Luminal A
+D2-0116,L,47,2,both,Malignant,Luminal B
+D2-0117,L,60,2,both,Malignant,Luminal B
+D2-0118,R,44,2,both,Malignant,Luminal B
+D2-0119,R,46,2,both,Malignant,Luminal B
+D2-0120,R,56,2,both,Malignant,HER2-enriched
+D2-0121,L,66,2,both,Malignant,Luminal B
+D2-0122,L,48,2,both,Malignant,Luminal B
+D2-0123,R,45,2,both,Malignant,Luminal B
+D2-0124,L,64,2,both,Malignant,Luminal B
+D2-0125,R,87,2,both,Malignant,HER2-enriched
+D2-0126,R,51,2,both,Malignant,triple negative
+D2-0127,R,53,2,both,Malignant,HER2-enriched
+D2-0128,R,37,2,both,Malignant,Luminal A
+D2-0129,R,69,2,both,Malignant,HER2-enriched
+D2-0130,L,56,2,both,Malignant,Luminal A
+D2-0131,R,63,2,both,Malignant,Luminal B
+D2-0132,R,49,2,both,Malignant,Luminal A
+D2-0133,R,41,2,both,Malignant,Luminal B
+D2-0134,L,60,2,both,Malignant,Luminal A
+D2-0135,R,47,2,both,Malignant,Luminal B
+D2-0136,L,55,2,both,Malignant,Luminal B
+D2-0137,L,47,2,both,Malignant,Luminal B
+D2-0138,R,60,2,both,Malignant,HER2-enriched
+D2-0139,L,54,2,both,Malignant,HER2-enriched
+D2-0140,L,58,2,both,Malignant,Luminal B
+D2-0141,L,43,2,both,Malignant,HER2-enriched
+D2-0142,R,34,2,both,Malignant,Luminal B
+D2-0143,R,51,2,both,Malignant,Luminal A
+D2-0144,R,42,2,both,Malignant,Luminal B
+D2-0145,L,50,2,both,Malignant,HER2-enriched
+D2-0146,L,57,2,both,Malignant,Luminal A
+D2-0147,L,57,2,both,Malignant,Luminal B
+D2-0148,L,55,2,both,Malignant,triple negative
+D2-0149,L,48,2,both,Malignant,HER2-enriched
+D2-0150,L,47,2,both,Malignant,Luminal A
+D2-0151,R,30,2,both,Malignant,HER2-enriched
+D2-0152,L,63,2,both,Malignant,Luminal A
+D2-0153,R,48,2,both,Malignant,triple negative
+D2-0154,R,74,2,both,Malignant,Luminal A
+D2-0155,R,53,2,both,Malignant,Luminal A
+D2-0156,R,56,2,both,Malignant,Luminal B
+D2-0157,L,56,2,both,Malignant,HER2-enriched
+D2-0158,L,61,2,both,Benign,
+D2-0158,R,61,2,both,Malignant,Luminal B
+D2-0159,R,60,2,both,Malignant,Luminal B
+D2-0160,L,49,2,both,Malignant,Luminal B
+D2-0161,L,50,2,both,Malignant,Luminal A
+D2-0162,L,57,2,both,Malignant,Luminal B
+D2-0163,R,68,2,both,Malignant,HER2-enriched
+D2-0164,R,55,2,both,Malignant,triple negative
+D2-0165,R,47,2,both,Malignant,Luminal B
+D2-0166,R,57,2,both,Malignant,Luminal B
+D2-0167,L,43,2,both,Malignant,HER2-enriched
+D2-0168,R,46,2,both,Malignant,Luminal A
+D2-0169,R,51,2,both,Malignant,HER2-enriched
+D2-0170,R,54,2,both,Malignant,Luminal B
+D2-0171,R,59,2,both,Malignant,Luminal B
+D2-0172,R,63,2,both,Malignant,HER2-enriched
+D2-0173,R,36,2,both,Malignant,Luminal B
+D2-0174,R,48,2,both,Malignant,Luminal B
+D2-0175,R,38,2,both,Malignant,Luminal B
+D2-0176,R,62,2,both,Malignant,Luminal B
+D2-0177,L,70,2,both,Malignant,Luminal B
+D2-0178,L,54,2,both,Malignant,HER2-enriched
+D2-0179,R,58,2,both,Malignant,Luminal B
+D2-0180,R,46,2,both,Malignant,Luminal B
+D2-0181,L,55,2,both,Malignant,Luminal A
+D2-0182,R,45,2,both,Malignant,Luminal B
+D2-0183,L,46,2,both,Malignant,Luminal B
+D2-0184,R,44,2,both,Malignant,triple negative
+D2-0185,L,41,2,both,Malignant,Luminal B
+D2-0186,R,52,2,both,Malignant,HER2-enriched
+D2-0187,L,53,2,both,Malignant,Luminal A
+D2-0188,R,56,2,both,Malignant,Luminal A
+D2-0189,R,61,2,both,Malignant,Luminal B
+D2-0190,L,59,2,both,Malignant,Luminal B
+D2-0191,R,45,2,both,Malignant,Luminal B
+D2-0192,L,56,2,both,Malignant,HER2-enriched
+D2-0193,R,51,2,both,Malignant,Luminal B
+D2-0194,R,50,2,both,Malignant,HER2-enriched
+D2-0195,L,52,2,both,Malignant,Luminal B
+D2-0196,R,47,2,both,Malignant,Luminal B
+D2-0197,L,40,2,both,Malignant,HER2-enriched
+D2-0198,R,56,2,both,Malignant,HER2-enriched
+D2-0199,L,48,2,both,Malignant,HER2-enriched
+D2-0200,R,31,2,both,Malignant,HER2-enriched
+D2-0201,L,42,2,both,Malignant,HER2-enriched
+D2-0202,L,42,2,both,Malignant,Luminal B
+D2-0203,R,49,2,both,Malignant,Luminal B
+D2-0204,R,40,2,both,Malignant,Luminal B
+D2-0205,L,60,2,both,Malignant,HER2-enriched
+D2-0206,L,52,2,both,Malignant,triple negative
+D2-0207,L,31,2,both,Malignant,Luminal B
+D2-0208,L,31,2,both,Malignant,HER2-enriched
+D2-0209,L,57,2,both,Malignant,HER2-enriched
+D2-0210,R,54,2,both,Malignant,Luminal B
+D2-0211,L,50,2,both,Malignant,Luminal B
+D2-0212,R,54,2,both,Malignant,Luminal A
+D2-0213,L,42,2,both,Malignant,Luminal A
+D2-0214,L,66,2,both,Malignant,triple negative
+D2-0215,R,57,2,both,Malignant,Luminal B
+D2-0216,L,49,2,both,Malignant,triple negative
+D2-0217,R,61,2,both,Malignant,HER2-enriched
+D2-0218,R,53,2,both,Malignant,triple negative
+D2-0219,R,49,2,both,Malignant,Luminal B
+D2-0220,L,49,2,both,Malignant,
+D2-0220,R,49,2,both,Malignant,Luminal B
+D2-0221,L,46,2,both,Malignant,Luminal B
+D2-0222,L,52,2,both,Malignant,triple negative
+D2-0223,R,37,2,both,Malignant,Luminal B
+D2-0224,R,60,2,both,Malignant,Luminal B
+D2-0225,R,50,2,both,Malignant,Luminal A
+D2-0226,R,49,2,both,Malignant,Luminal B
+D2-0227,R,44,2,both,Malignant,Luminal B
+D2-0228,L,30,2,both,Malignant,Luminal B
+D2-0229,R,47,2,both,Malignant,Luminal B
+D2-0230,L,60,2,both,Malignant,HER2-enriched
+D2-0231,L,39,2,both,Malignant,Luminal B
+D2-0232,R,34,2,both,Malignant,Luminal B
+D2-0233,R,61,2,both,Malignant,HER2-enriched
+D2-0234,R,45,2,both,Malignant,triple negative
+D2-0235,R,49,2,both,Malignant,Luminal B
+D2-0236,L,55,2,both,Malignant,HER2-enriched
+D2-0237,L,46,2,both,Malignant,Luminal B
+D2-0238,L,56,2,both,Malignant,Luminal B
+D2-0239,L,49,2,both,Malignant,Luminal B
+D2-0240,R,54,2,both,Malignant,Luminal B
+D2-0241,L,21,2,both,Malignant,Luminal B
+D2-0242,L,55,2,both,Malignant,Luminal A
+D2-0243,L,60,2,both,Malignant,HER2-enriched
+D2-0244,L,37,2,both,Malignant,Luminal B
+D2-0245,R,35,2,both,Malignant,HER2-enriched
+D2-0246,L,37,2,both,Malignant,Luminal B
+D2-0247,R,66,2,both,Malignant,Luminal A
+D2-0248,R,47,2,both,Malignant,HER2-enriched
+D2-0249,R,58,2,both,Malignant,HER2-enriched
+D2-0250,R,53,2,both,Malignant,triple negative
+D2-0251,R,39,2,both,Malignant,HER2-enriched
+D2-0252,R,42,2,both,Malignant,HER2-enriched
+D2-0253,L,50,2,both,Malignant,Luminal B
+D2-0254,R,60,2,both,Malignant,Luminal B
+D2-0255,L,44,2,both,Malignant,Luminal A
+D2-0256,R,55,2,both,Malignant,Luminal A
+D2-0257,L,58,2,both,Malignant,Luminal B
+D2-0258,L,51,2,both,Malignant,Luminal B
+D2-0259,L,36,2,both,Benign,
+D2-0259,R,36,2,both,Malignant,Luminal B
+D2-0260,R,42,2,both,Malignant,HER2-enriched
+D2-0261,R,34,2,both,Malignant,Luminal B
+D2-0262,L,31,2,both,Malignant,Luminal B
+D2-0263,L,74,2,both,Malignant,HER2-enriched
+D2-0264,R,39,2,both,Malignant,triple negative
+D2-0265,L,27,2,both,Benign,
+D2-0265,R,27,2,both,Malignant,Luminal B
+D2-0266,L,49,2,both,Malignant,HER2-enriched
+D2-0267,L,42,2,both,Malignant,Luminal B
+D2-0268,R,60,2,both,Malignant,HER2-enriched
+D2-0269,L,51,2,both,Malignant,HER2-enriched
+D2-0270,R,46,2,both,Malignant,Luminal A
+D2-0271,L,35,2,both,Malignant,HER2-enriched
+D2-0272,L,63,2,both,Malignant,HER2-enriched
+D2-0273,R,51,2,both,Malignant,Luminal B
+D2-0274,R,63,2,both,Malignant,Luminal B
+D2-0275,L,46,2,both,Malignant,Luminal B
+D2-0276,R,62,2,both,Malignant,HER2-enriched
+D2-0277,L,61,2,both,Malignant,Luminal B
+D2-0278,L,44,2,both,Malignant,Luminal B
+D2-0279,L,34,2,both,Malignant,Luminal B
+D2-0280,R,45,2,both,Malignant,Luminal B
+D2-0281,L,49,2,both,Malignant,Luminal A
+D2-0282,R,30,2,both,Malignant,Luminal B
+D2-0283,L,58,2,both,Malignant,Luminal B
+D2-0284,L,38,2,both,Malignant,Luminal A
+D2-0285,L,53,2,both,Malignant,Luminal B
+D2-0286,L,47,2,both,Malignant,Luminal A
+D2-0287,R,68,2,both,Malignant,HER2-enriched
+D2-0288,L,34,2,both,Malignant,Luminal B
+D2-0289,L,56,2,both,Malignant,HER2-enriched
+D2-0290,L,52,2,both,Malignant,Luminal B
+D2-0291,L,50,2,both,Malignant,triple negative
+D2-0292,R,56,2,both,Malignant,HER2-enriched
+D2-0293,R,59,2,both,Malignant,HER2-enriched
+D2-0294,L,43,2,both,Malignant,HER2-enriched
+D2-0295,R,48,2,both,Malignant,Luminal B
+D2-0296,L,45,2,both,Malignant,Luminal B
+D2-0297,L,51,2,both,Malignant,Luminal B
+D2-0298,L,72,2,both,Malignant,Luminal B
+D2-0299,L,64,2,both,Malignant,Luminal A
+D2-0300,R,82,2,both,Malignant,Luminal B
+D2-0301,L,62,2,both,Malignant,Luminal A
+D2-0302,L,36,2,both,Malignant,Luminal B
+D2-0303,L,36,2,both,Malignant,Luminal B
+D2-0304,R,50,2,both,Malignant,Luminal A
+D2-0305,L,62,2,both,Malignant,HER2-enriched
+D2-0306,L,47,2,both,Malignant,Luminal B
+D2-0307,R,59,2,both,Malignant,Luminal B
+D2-0308,L,61,2,both,Malignant,HER2-enriched
+D2-0309,R,36,2,both,Malignant,Luminal B
+D2-0310,L,35,2,both,Malignant,Luminal B
+D2-0311,L,45,2,both,Malignant,HER2-enriched
+D2-0312,L,55,2,both,Malignant,HER2-enriched
+D2-0313,R,53,2,both,Malignant,Luminal B
+D2-0314,R,61,2,both,Malignant,Luminal A
+D2-0315,R,53,2,both,Malignant,Luminal A
+D2-0316,R,62,2,both,Malignant,Luminal B
+D2-0317,L,57,2,both,Malignant,HER2-enriched
+D2-0318,L,60,2,both,Malignant,Luminal B
+D2-0319,L,66,2,both,Malignant,Luminal B
+D2-0320,L,51,2,both,Malignant,Luminal B
+D2-0321,R,49,2,both,Malignant,Luminal B
+D2-0322,R,57,2,both,Malignant,Luminal B
+D2-0323,R,29,2,both,Malignant,HER2-enriched
+D2-0324,L,33,2,both,Malignant,Luminal B
+D2-0325,L,34,2,both,Malignant,Luminal B
+D2-0326,L,44,2,both,Malignant,Luminal B
+D2-0327,L,58,2,both,Malignant,Luminal A
+D2-0328,L,61,2,both,Malignant,HER2-enriched
+D2-0329,R,42,2,both,Malignant,HER2-enriched
+D2-0330,L,51,2,both,Malignant,Luminal A
+D2-0331,R,44,2,both,Malignant,Luminal A
+D2-0332,L,50,2,both,Malignant,HER2-enriched
+D2-0333,R,85,2,mass,Malignant,Luminal B
+D2-0334,L,77,2,mass,Malignant,Luminal B
+D2-0335,R,61,2,mass,Malignant,Luminal B
+D2-0336,R,64,2,mass,Malignant,Luminal B
+D2-0337,R,54,2,mass,Malignant,Luminal A
+D2-0338,R,81,2,mass,Malignant,Luminal A
+D2-0339,L,61,2,mass,Malignant,Luminal A
+D2-0340,R,52,2,mass,Malignant,Luminal B
+D2-0341,R,41,2,mass,Malignant,Luminal B
+D2-0342,R,52,2,mass,Malignant,HER2-enriched
+D2-0343,R,51,2,mass,Malignant,Luminal B
+D2-0344,R,64,2,mass,Malignant,triple negative
+D2-0345,R,50,2,mass,Malignant,Luminal B
+D2-0346,R,34,2,mass,Malignant,Luminal B
+D2-0347,R,49,2,mass,Malignant,triple negative
+D2-0348,R,48,2,mass,Malignant,Luminal B
+D2-0349,R,47,2,mass,Malignant,HER2-enriched
+D2-0350,L,62,2,mass,Malignant,HER2-enriched
+D2-0351,R,43,2,mass,Malignant,Luminal A
+D2-0352,L,73,2,mass,Malignant,Luminal B
+D2-0353,L,51,2,mass,Malignant,Luminal B
+D2-0354,R,48,2,mass,Malignant,Luminal A
+D2-0355,R,47,2,mass,Malignant,triple negative
+D2-0356,R,57,2,mass,Malignant,triple negative
+D2-0357,R,42,2,mass,Malignant,Luminal B
+D2-0358,R,36,2,mass,Malignant,Luminal B
+D2-0359,L,49,2,mass,Malignant,triple negative
+D2-0360,L,47,2,mass,Malignant,Luminal B
+D2-0361,L,69,2,mass,Malignant,Luminal B
+D2-0362,L,49,2,mass,Malignant,Luminal B
+D2-0363,R,66,2,mass,Malignant,Luminal B
+D2-0364,L,50,2,mass,Malignant,Luminal B
+D2-0365,L,56,2,mass,Malignant,Luminal B
+D2-0366,L,56,2,mass,Malignant,Luminal B
+D2-0367,L,47,2,mass,Malignant,
+D2-0367,R,47,2,mass,Malignant,HER2-enriched
+D2-0368,R,50,2,mass,Malignant,Luminal B
+D2-0369,L,50,2,mass,Malignant,Luminal B
+D2-0370,L,46,2,mass,Malignant,Luminal A
+D2-0371,R,40,2,mass,Malignant,Luminal B
+D2-0372,L,56,2,mass,Malignant,triple negative
+D2-0373,L,59,2,mass,Malignant,Luminal B
+D2-0374,R,62,2,mass,Malignant,Luminal B
+D2-0375,R,49,2,mass,Malignant,triple negative
+D2-0376,L,59,2,mass,Malignant,triple negative
+D2-0377,L,65,2,mass,Malignant,Luminal A
+D2-0378,L,43,2,mass,Malignant,Luminal B
+D2-0379,L,52,2,mass,Malignant,Luminal B
+D2-0380,L,52,2,mass,Malignant,Luminal B
+D2-0381,L,65,2,mass,Malignant,Luminal A
+D2-0382,R,67,2,mass,Malignant,Luminal A
+D2-0383,L,62,2,mass,Malignant,Luminal B
+D2-0384,R,41,2,mass,Malignant,Luminal B
+D2-0385,R,43,2,mass,Malignant,Luminal A
+D2-0386,R,40,2,mass,Malignant,Luminal B
+D2-0387,L,53,2,mass,Malignant,triple negative
+D2-0388,L,44,2,mass,Malignant,Luminal B
+D2-0389,R,47,2,mass,Malignant,Luminal B
+D2-0390,R,39,2,mass,Malignant,Luminal A
+D2-0391,L,41,2,mass,Malignant,Luminal B
+D2-0392,R,55,2,mass,Malignant,Luminal B
+D2-0393,R,35,2,mass,Malignant,Luminal A
+D2-0394,L,46,2,mass,Malignant,HER2-enriched
+D2-0395,R,39,2,mass,Malignant,Luminal A
+D2-0396,L,43,2,mass,Malignant,Luminal A
+D2-0397,L,52,2,mass,Malignant,Luminal B
+D2-0398,L,50,2,mass,Malignant,HER2-enriched
+D2-0399,R,61,2,mass,Malignant,Luminal B
+D2-0400,L,63,2,mass,Malignant,Luminal B
+D2-0401,L,67,2,mass,Malignant,Luminal A
+D2-0402,R,49,2,mass,Malignant,Luminal A
+D2-0403,L,35,2,mass,Malignant,Luminal B
+D2-0404,L,47,2,mass,Malignant,Luminal B
+D2-0405,L,57,2,mass,Malignant,Luminal B
+D2-0406,R,51,2,mass,Malignant,Luminal A
+D2-0407,R,59,2,mass,Malignant,Luminal B
+D2-0408,R,48,2,mass,Malignant,Luminal B
+D2-0409,R,27,2,mass,Malignant,Luminal B
+D2-0410,L,43,2,mass,Malignant,Luminal B
+D2-0411,R,48,2,mass,Malignant,Luminal A
+D2-0412,R,41,2,mass,Malignant,Luminal B
+D2-0413,R,71,2,mass,Malignant,Luminal A
+D2-0414,L,39,2,mass,Malignant,Luminal B
+D2-0415,L,43,2,mass,Malignant,triple negative
+D2-0416,L,49,2,mass,Malignant,Luminal B
+D2-0417,R,47,2,mass,Malignant,Luminal B
+D2-0418,L,83,2,mass,Malignant,Luminal B
+D2-0419,L,48,2,mass,Malignant,HER2-enriched
+D2-0420,L,49,2,mass,Malignant,Luminal A
+D2-0421,L,59,2,mass,Malignant,Luminal B
+D2-0422,R,48,2,mass,Malignant,Luminal B
+D2-0423,L,48,2,mass,Malignant,Luminal B
+D2-0424,L,65,2,mass,Malignant,triple negative
+D2-0425,L,56,2,mass,Malignant,HER2-enriched
+D2-0426,R,27,2,mass,Malignant,Luminal B
+D2-0427,L,69,2,mass,Malignant,Luminal A
+D2-0428,L,49,2,mass,Malignant,Luminal B
+D2-0429,L,46,2,mass,Malignant,HER2-enriched
+D2-0430,L,58,2,mass,Malignant,Luminal A
+D2-0431,R,44,2,mass,Malignant,Luminal B
+D2-0432,R,65,2,mass,Malignant,triple negative
+D2-0433,L,42,2,mass,Malignant,Luminal A
+D2-0434,R,51,2,mass,Malignant,Luminal A
+D2-0435,L,35,2,mass,Malignant,triple negative
+D2-0436,L,37,2,mass,Malignant,triple negative
+D2-0437,L,59,2,mass,Malignant,Luminal A
+D2-0438,R,63,2,mass,Malignant,HER2-enriched
+D2-0439,L,49,2,mass,Malignant,Luminal A
+D2-0440,L,59,2,mass,Malignant,Luminal A
+D2-0441,L,67,2,mass,Malignant,Luminal A
+D2-0442,L,40,2,mass,Malignant,Luminal A
+D2-0443,L,64,2,mass,Malignant,Luminal B
+D2-0444,L,55,2,mass,Malignant,Luminal B
+D2-0445,R,39,2,mass,Malignant,Luminal B
+D2-0446,R,58,2,mass,Malignant,triple negative
+D2-0447,R,66,2,mass,Malignant,Luminal B
+D2-0448,L,53,2,mass,Malignant,triple negative
+D2-0449,R,42,2,mass,Malignant,Luminal B
+D2-0450,L,73,2,mass,Malignant,Luminal B
+D2-0451,L,56,2,mass,Malignant,HER2-enriched
+D2-0452,L,58,2,mass,Malignant,Luminal A
+D2-0453,L,40,2,mass,Malignant,Luminal B
+D2-0454,R,51,2,mass,Malignant,Luminal B
+D2-0455,L,46,2,mass,Malignant,triple negative
+D2-0456,L,53,2,mass,Malignant,Luminal B
+D2-0457,R,53,2,mass,Malignant,Luminal B
+D2-0458,R,57,2,mass,Malignant,Luminal A
+D2-0459,R,36,2,mass,Malignant,triple negative
+D2-0460,R,60,2,mass,Malignant,triple negative
+D2-0461,R,42,2,mass,Malignant,triple negative
+D2-0462,R,50,2,mass,Malignant,Luminal B
+D2-0463,R,73,2,mass,Malignant,Luminal A
+D2-0464,R,76,2,mass,Malignant,Luminal A
+D2-0465,L,29,2,mass,Malignant,triple negative
+D2-0466,R,47,2,mass,Malignant,Luminal A
+D2-0467,L,51,2,mass,Malignant,HER2-enriched
+D2-0468,R,57,2,mass,Malignant,Luminal B
+D2-0469,L,50,2,mass,Malignant,Luminal B
+D2-0470,L,56,2,mass,Malignant,Luminal B
+D2-0471,L,57,2,mass,Malignant,Luminal A
+D2-0472,R,41,2,mass,Malignant,Luminal B
+D2-0473,L,57,2,mass,Malignant,Luminal A
+D2-0474,R,35,2,mass,Malignant,Luminal A
+D2-0475,R,59,2,mass,Malignant,Luminal B
+D2-0476,L,46,2,mass,Malignant,HER2-enriched
+D2-0477,L,51,2,mass,Malignant,triple negative
+D2-0478,L,34,2,mass,Malignant,Luminal B
+D2-0479,R,60,2,mass,Malignant,Luminal A
+D2-0480,R,49,2,mass,Malignant,triple negative
+D2-0481,L,42,2,mass,Malignant,Luminal B
+D2-0482,R,44,2,mass,Malignant,HER2-enriched
+D2-0483,L,59,2,mass,Malignant,Luminal A
+D2-0484,R,42,2,mass,Malignant,Luminal B
+D2-0485,L,59,2,mass,Malignant,HER2-enriched
+D2-0486,L,42,2,mass,Malignant,HER2-enriched
+D2-0487,R,74,2,mass,Malignant,Luminal B
+D2-0488,R,47,2,mass,Malignant,Luminal B
+D2-0489,L,58,2,mass,Malignant,Luminal B
+D2-0490,R,62,2,mass,Malignant,Luminal B
+D2-0491,L,45,2,mass,Malignant,Luminal A
+D2-0492,L,32,2,mass,Malignant,triple negative
+D2-0493,R,49,2,mass,Malignant,triple negative
+D2-0494,L,44,2,mass,Malignant,Luminal B
+D2-0495,R,49,2,mass,Malignant,Luminal B
+D2-0496,R,48,2,mass,Malignant,Luminal A
+D2-0497,R,39,2,mass,Malignant,triple negative
+D2-0498,L,46,2,mass,Malignant,Luminal B
+D2-0499,R,53,2,mass,Malignant,Luminal A
+D2-0500,L,46,2,mass,Malignant,Luminal B
+D2-0501,R,72,2,mass,Malignant,Luminal B
+D2-0502,L,83,2,mass,Malignant,Luminal A
+D2-0503,L,40,2,mass,Malignant,Luminal B
+D2-0504,R,53,2,mass,Malignant,Luminal A
+D2-0505,L,65,2,mass,Malignant,Luminal B
+D2-0506,R,47,2,mass,Malignant,Luminal B
+D2-0507,L,51,2,mass,Malignant,Luminal B
+D2-0508,R,63,2,mass,Malignant,Luminal A
+D2-0509,L,65,2,mass,Malignant,Luminal B
+D2-0510,R,43,2,mass,Malignant,Luminal B
+D2-0511,L,71,2,mass,Malignant,Luminal B
+D2-0512,R,38,2,mass,Malignant,Luminal B
+D2-0513,L,49,2,mass,Malignant,triple negative
+D2-0514,R,37,2,mass,Malignant,Luminal B
+D2-0515,L,40,2,mass,Malignant,Luminal B
+D2-0516,R,45,2,mass,Malignant,Luminal A
+D2-0517,L,48,2,mass,Malignant,Luminal B
+D2-0518,R,50,2,mass,Malignant,Luminal A
+D2-0519,R,40,2,mass,Malignant,Luminal B
+D2-0520,R,42,2,mass,Malignant,triple negative
+D2-0521,R,59,2,mass,Malignant,HER2-enriched
+D2-0522,L,44,2,mass,Malignant,Luminal A
+D2-0523,R,52,2,mass,Malignant,Luminal B
+D2-0524,R,44,2,mass,Malignant,Luminal B
+D2-0525,L,56,2,mass,Malignant,triple negative
+D2-0526,L,52,2,mass,Malignant,Luminal B
+D2-0527,L,46,2,mass,Malignant,Luminal B
+D2-0528,L,61,2,mass,Malignant,triple negative
+D2-0529,R,51,2,mass,Malignant,Luminal B
+D2-0530,L,51,2,mass,Malignant,Luminal B
+D2-0531,L,61,2,mass,Malignant,triple negative
+D2-0532,L,50,2,mass,Malignant,HER2-enriched
+D2-0533,L,60,2,mass,Malignant,Luminal B
+D2-0534,L,47,2,mass,Malignant,Luminal A
+D2-0535,R,58,2,mass,Malignant,Luminal A
+D2-0536,L,45,2,mass,Malignant,HER2-enriched
+D2-0537,L,51,2,mass,Malignant,Luminal A
+D2-0538,R,56,2,mass,Malignant,triple negative
+D2-0539,L,61,2,mass,Malignant,HER2-enriched
+D2-0540,L,42,2,mass,Malignant,Luminal B
+D2-0541,L,50,2,mass,Malignant,Luminal A
+D2-0542,L,37,2,mass,Malignant,Luminal B
+D2-0543,L,44,2,mass,Malignant,HER2-enriched
+D2-0544,R,60,2,mass,Malignant,Luminal B
+D2-0545,R,46,2,mass,Malignant,Luminal B
+D2-0546,L,46,2,mass,Malignant,Luminal A
+D2-0547,R,31,2,mass,Malignant,Luminal B
+D2-0548,L,40,2,mass,Malignant,Luminal A
+D2-0549,L,70,2,mass,Malignant,triple negative
+D2-0550,R,46,2,mass,Malignant,Luminal B
+D2-0551,R,57,2,mass,Malignant,Luminal A
+D2-0552,R,33,2,mass,Malignant,Luminal A
+D2-0553,R,51,2,mass,Malignant,HER2-enriched
+D2-0554,L,58,2,mass,Malignant,triple negative
+D2-0555,L,43,2,mass,Malignant,Luminal B
+D2-0556,R,68,2,mass,Malignant,Luminal B
+D2-0557,L,52,2,mass,Malignant,Luminal B
+D2-0558,L,66,2,mass,Malignant,Luminal B
+D2-0559,R,51,2,mass,Malignant,Luminal B
+D2-0560,R,49,2,mass,Malignant,Luminal B
+D2-0561,L,44,2,mass,Malignant,Luminal B
+D2-0562,L,50,2,mass,Malignant,Luminal B
+D2-0563,R,41,2,mass,Malignant,Luminal B
+D2-0564,R,30,2,mass,Malignant,Luminal B
+D2-0565,L,75,2,mass,Malignant,
+D2-0565,R,75,2,mass,Malignant,Luminal A
+D2-0566,L,65,2,mass,Malignant,Luminal B
+D2-0567,L,42,2,mass,Malignant,Luminal A
+D2-0568,R,62,2,mass,Malignant,Luminal B
+D2-0569,L,45,2,mass,Malignant,Luminal B
+D2-0570,L,29,2,mass,Malignant,triple negative
+D2-0571,L,64,2,mass,Malignant,triple negative
+D2-0572,R,44,2,mass,Malignant,Luminal B
+D2-0573,R,44,2,mass,Malignant,Luminal B
+D2-0574,R,49,2,mass,Malignant,Luminal B
+D2-0575,L,56,2,mass,Malignant,Luminal A
+D2-0576,R,57,2,mass,Malignant,Luminal B
+D2-0577,L,45,2,mass,Malignant,Luminal B
+D2-0578,R,44,2,mass,Malignant,triple negative
+D2-0579,R,46,2,mass,Malignant,triple negative
+D2-0580,L,41,2,mass,Malignant,Luminal B
+D2-0581,L,41,2,mass,Malignant,triple negative
+D2-0582,L,45,2,mass,Malignant,Luminal B
+D2-0583,R,46,2,mass,Malignant,Luminal B
+D2-0584,R,51,2,mass,Malignant,HER2-enriched
+D2-0585,R,30,2,mass,Malignant,triple negative
+D2-0586,L,46,2,mass,Malignant,triple negative
+D2-0587,L,45,2,mass,Malignant,triple negative
+D2-0588,R,61,2,mass,Malignant,Luminal B
+D2-0589,R,68,2,mass,Malignant,Luminal B
+D2-0590,R,50,2,mass,Malignant,Luminal B
+D2-0591,R,46,2,mass,Malignant,Luminal A
+D2-0592,L,53,2,mass,Malignant,triple negative
+D2-0593,L,57,2,mass,Malignant,Luminal A
+D2-0594,R,45,2,mass,Malignant,Luminal B
+D2-0595,R,46,2,mass,Malignant,HER2-enriched
+D2-0596,L,52,2,mass,Malignant,HER2-enriched
+D2-0597,L,38,2,mass,Malignant,Luminal B
+D2-0598,L,51,2,mass,Malignant,HER2-enriched
+D2-0599,R,44,2,mass,Malignant,Luminal B
+D2-0600,L,41,2,mass,Malignant,triple negative
+D2-0601,R,39,2,mass,Malignant,Luminal B
+D2-0602,L,42,2,mass,Malignant,triple negative
+D2-0603,L,44,2,mass,Malignant,Luminal B
+D2-0604,L,43,2,mass,Malignant,Luminal B
+D2-0605,R,55,2,mass,Malignant,Luminal B
+D2-0606,R,53,2,mass,Malignant,Luminal A
+D2-0607,R,51,2,mass,Malignant,Luminal A
+D2-0608,R,28,2,mass,Malignant,triple negative
+D2-0609,L,56,2,mass,Malignant,Luminal A
+D2-0610,L,66,2,mass,Malignant,Luminal B
+D2-0611,R,59,2,mass,Malignant,Luminal B
+D2-0612,L,33,2,mass,Malignant,Luminal A
+D2-0613,L,50,2,mass,Malignant,HER2-enriched
+D2-0613,R,50,2,mass,Benign,
+D2-0614,L,78,2,mass,Malignant,HER2-enriched
+D2-0615,L,57,2,mass,Malignant,HER2-enriched
+D2-0616,L,49,2,mass,Malignant,Luminal A
+D2-0617,R,77,2,mass,Malignant,Luminal B
+D2-0618,L,51,2,mass,Malignant,Luminal B
+D2-0619,R,34,2,mass,Malignant,triple negative
+D2-0620,R,52,2,mass,Malignant,HER2-enriched
+D2-0621,L,45,2,mass,Malignant,Luminal B
+D2-0622,R,42,2,mass,Malignant,triple negative
+D2-0623,L,52,2,mass,Malignant,Luminal A
+D2-0624,R,66,2,mass,Malignant,Luminal A
+D2-0625,R,43,2,mass,Malignant,triple negative
+D2-0626,R,54,2,mass,Malignant,Luminal B
+D2-0627,L,38,2,mass,Malignant,triple negative
+D2-0628,R,56,2,mass,Malignant,Luminal B
+D2-0629,R,55,2,mass,Malignant,HER2-enriched
+D2-0630,L,43,2,mass,Malignant,Luminal A
+D2-0631,R,42,2,mass,Malignant,Luminal B
+D2-0632,R,41,2,mass,Malignant,Luminal A
+D2-0633,R,35,2,mass,Malignant,Luminal B
+D2-0634,L,61,2,mass,Malignant,Luminal B
+D2-0635,R,42,2,mass,Malignant,HER2-enriched
+D2-0636,R,46,2,mass,Malignant,Luminal B
+D2-0637,L,36,2,mass,Malignant,Luminal A
+D2-0638,L,49,2,mass,Malignant,HER2-enriched
+D2-0639,L,33,2,mass,Malignant,Luminal B
+D2-0640,L,59,2,mass,Malignant,triple negative
+D2-0641,L,48,2,mass,Malignant,Luminal A
+D2-0642,L,60,2,mass,Malignant,triple negative
+D2-0643,L,40,2,mass,Malignant,triple negative
+D2-0644,L,44,2,mass,Malignant,Luminal A
+D2-0645,R,53,2,mass,Malignant,Luminal A
+D2-0646,L,42,2,mass,Malignant,triple negative
+D2-0647,L,75,2,mass,Malignant,triple negative
+D2-0648,L,58,2,mass,Malignant,Luminal A
+D2-0649,R,66,2,mass,Malignant,Luminal B
+D2-0650,R,46,2,mass,Malignant,Luminal B
+D2-0651,L,69,2,mass,Malignant,Luminal A
+D2-0652,L,40,2,mass,Malignant,triple negative
+D2-0653,R,47,2,mass,Malignant,Luminal B
+D2-0654,L,85,2,mass,Malignant,triple negative
+D2-0655,L,49,2,mass,Malignant,Luminal B
+D2-0656,R,78,2,mass,Malignant,Luminal B
+D2-0657,R,44,2,mass,Malignant,Luminal B
+D2-0658,L,64,2,mass,Malignant,Luminal A
+D2-0659,L,45,2,mass,Malignant,Luminal B
+D2-0660,R,75,2,mass,Malignant,Luminal A
+D2-0661,R,64,2,mass,Malignant,Luminal B
+D2-0662,L,32,2,mass,Malignant,HER2-enriched
+D2-0663,L,52,2,mass,Malignant,Luminal B
+D2-0664,R,65,2,mass,Malignant,Luminal B
+D2-0665,L,48,2,mass,Malignant,Luminal B
+D2-0666,R,58,2,mass,Malignant,Luminal B
+D2-0667,L,29,2,mass,Malignant,Luminal B
+D2-0668,L,62,2,mass,Malignant,Luminal A
+D2-0669,L,54,2,mass,Malignant,Luminal B
+D2-0670,L,69,2,mass,Malignant,Luminal A
+D2-0671,L,48,2,mass,Malignant,Luminal B
+D2-0672,L,45,2,mass,Malignant,Luminal B
+D2-0673,L,59,2,mass,Malignant,Luminal B
+D2-0674,L,60,2,mass,Malignant,Luminal A
+D2-0674,R,60,2,mass,Benign,
+D2-0675,L,41,2,mass,Malignant,Luminal B
+D2-0676,R,43,2,mass,Malignant,Luminal B
+D2-0677,L,46,2,mass,Malignant,Luminal A
+D2-0678,L,74,2,mass,Malignant,Luminal B
+D2-0679,L,51,2,mass,Malignant,Luminal B
+D2-0680,L,38,2,mass,Malignant,Luminal B
+D2-0681,R,33,2,mass,Malignant,triple negative
+D2-0682,L,44,2,mass,Malignant,Luminal B
+D2-0683,R,43,2,mass,Malignant,Luminal A
+D2-0684,R,49,2,mass,Malignant,Luminal B
+D2-0685,R,42,2,mass,Malignant,Luminal B
+D2-0686,R,48,2,mass,Malignant,triple negative
+D2-0687,R,49,2,mass,Malignant,Luminal B
+D2-0688,L,51,2,mass,Malignant,Luminal B
+D2-0689,L,30,2,mass,Malignant,HER2-enriched
+D2-0690,L,60,2,mass,Malignant,Luminal B
+D2-0691,L,44,2,mass,Malignant,Luminal A
+D2-0692,L,52,2,mass,Malignant,Luminal B
+D2-0693,L,54,2,mass,Malignant,triple negative
+D2-0694,L,46,2,mass,Malignant,Luminal B
+D2-0695,L,44,2,mass,Malignant,Luminal B
+D2-0696,R,55,2,mass,Malignant,triple negative
+D2-0697,L,33,2,mass,Malignant,HER2-enriched
+D2-0698,L,42,2,mass,Malignant,Luminal B
+D2-0699,R,37,2,mass,Malignant,Luminal B
+D2-0700,R,51,2,mass,Malignant,Luminal B
+D2-0701,L,38,2,mass,Benign,
+D2-0701,R,38,2,mass,Malignant,Luminal A
+D2-0702,L,43,2,mass,Malignant,Luminal A
+D2-0703,L,46,2,mass,Malignant,Luminal B
+D2-0704,R,63,2,mass,Malignant,Luminal A
+D2-0705,R,37,2,mass,Malignant,Luminal B
+D2-0706,L,44,2,mass,Malignant,
+D2-0706,R,44,2,mass,Malignant,Luminal B
+D2-0707,L,42,2,mass,Malignant,Luminal B
+D2-0708,R,63,2,mass,Malignant,Luminal B
+D2-0709,L,49,2,mass,Malignant,triple negative
+D2-0710,R,43,2,mass,Malignant,Luminal B
+D2-0711,R,32,2,mass,Malignant,Luminal B
+D2-0712,R,52,2,mass,Malignant,triple negative
+D2-0713,R,31,2,mass,Malignant,Luminal B
+D2-0714,R,51,2,mass,Malignant,Luminal B
+D2-0715,R,51,2,mass,Malignant,Luminal B
+D2-0716,R,48,2,mass,Malignant,HER2-enriched
+D2-0717,L,62,2,mass,Malignant,Luminal A
+D2-0718,R,62,2,mass,Malignant,Luminal A
+D2-0719,R,53,2,mass,Malignant,HER2-enriched
+D2-0720,L,39,2,mass,Malignant,Luminal A
+D2-0721,R,60,2,mass,Malignant,Luminal B
+D2-0722,L,53,2,mass,Malignant,Luminal B
+D2-0723,R,49,2,mass,Malignant,Luminal B
+D2-0724,L,29,2,mass,Malignant,triple negative
+D2-0725,R,50,2,mass,Malignant,Luminal A
+D2-0726,R,64,2,mass,Malignant,Luminal B
+D2-0727,L,69,2,mass,Malignant,Luminal A
+D2-0728,R,69,2,mass,Malignant,Luminal B
+D2-0729,R,44,2,mass,Malignant,Luminal A
+D2-0730,R,50,2,mass,Malignant,Luminal B
+D2-0731,L,36,2,mass,Malignant,Luminal A
+D2-0732,R,33,2,mass,Malignant,Luminal B
+D2-0733,R,50,2,mass,Malignant,HER2-enriched
+D2-0734,R,58,2,mass,Malignant,Luminal B
+D2-0735,L,48,2,mass,Malignant,Luminal B
+D2-0736,R,48,2,mass,Malignant,Luminal A
+D2-0737,R,44,2,mass,Malignant,Luminal B
+D2-0738,R,43,2,mass,Malignant,HER2-enriched
+D2-0739,R,49,2,mass,Malignant,Luminal B
+D2-0740,R,53,2,mass,Malignant,Luminal B
+D2-0741,R,42,2,mass,Malignant,HER2-enriched
+D2-0742,L,72,2,mass,Malignant,Luminal B
+D2-0743,R,39,2,mass,Malignant,Luminal B
+D2-0744,L,38,2,mass,Malignant,Luminal A
+D2-0745,L,43,2,mass,Malignant,triple negative
+D2-0746,R,59,2,mass,Malignant,HER2-enriched
+D2-0747,R,53,2,mass,Malignant,Luminal B
+D2-0748,R,29,2,mass,Malignant,Luminal B
+D2-0749,L,42,2,mass,Malignant,Luminal B

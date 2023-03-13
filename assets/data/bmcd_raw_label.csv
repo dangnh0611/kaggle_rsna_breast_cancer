@@ -1,0 +1,101 @@
+dir,laterality,age,density,BIRADS,biopsy_result,folder_type
+1,Right,57,b,4a,BENIGN,suspicious
+2,Left,64,c,4a,BENIGN,suspicious
+3,Left,71,b,4a,BENIGN,suspicious
+4,Left,55,c,4a,NOT AVAILABLE,suspicious
+5,Right,65,c,4a,BENIGN,suspicious
+6,Right,65,a,4a,BENIGN,suspicious
+7,Left,57,a,4a,BENIGN,suspicious
+8,Right,56,b,4a,BENIGN,suspicious
+9,Right,65,b,4a,BENIGN,suspicious
+10,Right,57,c,4a,NOT AVAILABLE,suspicious
+11,Left,54,c,4b,MALIGNANT,suspicious
+12,Left,62,b,4a,NOT AVAILABLE,suspicious
+13,Right,56,c,4a,BENIGN,suspicious
+14,Right,67,c,4b,BENIGN,suspicious
+15,Right,56,b,4a,MALIGNANT,suspicious
+16,Right,53,b,4a,NOT AVAILABLE,suspicious
+17,Left,58,c,4b,NOT AVAILABLE,suspicious
+18,Left,65,a,4a,BENIGN,suspicious
+19,Left,64,b,4b,NOT AVAILABLE,suspicious
+20,Right,56,b,4a,NOT AVAILABLE,suspicious
+21,Left,53,c,4a,MALIGNANT,suspicious
+22,Left,69,b,4b,NOT AVAILABLE,suspicious
+23,Left,64,b,4b,BENIGN,suspicious
+24,Right,61,b,4b,NOT AVAILABLE,suspicious
+25,Left,67,b,4b,NOT AVAILABLE,suspicious
+26,Right,65,b,4a,NOT AVAILABLE,suspicious
+27,Left,66,c,4b,BENIGN,suspicious
+28,Left,68,b,4b,NOT AVAILABLE,suspicious
+29,Left,55,c,4b,BENIGN,suspicious
+30,Left,68,b,4c,DCIS,suspicious
+31,Left,74,d,4c,NOT AVAILABLE,suspicious
+32,Right,59,b,4a,BENIGN,suspicious
+33,Right,69,c,4a,NOT AVAILABLE,suspicious
+34,Left,62,c,4b,NOT AVAILABLE,suspicious
+35,Left,60,c,4a,DCIS,suspicious
+36,Right,64,b,4a,NOT AVAILABLE,suspicious
+37,Right,65,b,4a,NOT AVAILABLE,suspicious
+38,Right,61,b,4b,NOT AVAILABLE,suspicious
+39,Left,83,b,4c,MALIGNANT,suspicious
+40,Left,51,d,4a,BENIGN,suspicious
+41,Right,48,b,4a,DCIS,suspicious
+42,Left,48,d,4b,BENIGN,suspicious
+43,Left,45,c,4a,BENIGN,suspicious
+44,Right,38,b,4c,MALIGNANT,suspicious
+45,Right,69,c,4a,BENIGN,suspicious
+46,Left,69,a,5,DCIS,suspicious
+47,Left,52,c,4c,BENIGN,suspicious
+48,Right,59,b,4b,DCIS,suspicious
+49,Right,69,a,5,DCIS,suspicious
+50,Right,52,c,4c,BENIGN,suspicious
+1,Right,66,a,1,,normal
+2,Right,66,c,2,,normal
+3,Right,62,b,1,,normal
+4,Left,63,b,2,,normal
+5,Right,66,a,2,,normal
+6,Right,64,b,2,,normal
+7,Right,63,b,2,,normal
+8,Right,61,b,1,,normal
+9,Left,58,b,1,,normal
+10,Left,56,b,1,,normal
+11,Right,58,c,2,,normal
+12,Left,57,b,2,,normal
+13,Left,55,b,1,,normal
+14,Right,52,b,2,,normal
+15,Left,64,c,2,,normal
+16,Left,53,b,2,,normal
+17,Left,54,c,1,,normal
+18,Left,51,b,1,,normal
+19,Right,66,a,2,,normal
+20,Left,69,b,2,,normal
+21,Left,64,b,1,,normal
+22,Left,59,d,2,,normal
+23,Right,66,b,2,,normal
+24,Right,61,c,1,,normal
+25,Left,65,b,2,,normal
+26,Right,59,c,2,,normal
+27,Left,52,b,1,,normal
+28,Left,52,b,2,,normal
+29,Right,59,b,1,,normal
+30,Left,66,b,2,,normal
+31,Right,60,b,2,,normal
+32,Right,59,b,1,,normal
+33,Left,59,a,1,,normal
+34,Left,58,b,2,,normal
+35,Right,58,b,2,,normal
+36,Left,55,b,1,,normal
+37,Right,52,b,1,,normal
+38,Right,60,b,1,,normal
+39,Left,56,b,1,,normal
+40,Right,53,c,2,,normal
+41,Left,73,b,1,,normal
+42,Right,65,b,2,,normal
+43,Left,64,c,1,,normal
+44,Right,57,c,2,,normal
+45,Left,55,b,2,,normal
+46,Right,53,c,2,,normal
+47,Left,49,d,1,,normal
+48,Right,47,b,1,,normal
+49,Left,75,a,2,,normal
+50,Right,56,b,2,,normal

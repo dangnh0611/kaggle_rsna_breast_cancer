@@ -1,0 +1,2013 @@
+.
+./Radiology manual annotations.xlsx
+./Radiology_hand_drawn_segmentations_v2.csv
+./Low energy images of CDD-CESM
+./Low energy images of CDD-CESM/P39_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P324_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P55_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P186_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P233_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P284_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P180_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P181_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P17_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P249_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P312_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P269_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P211_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P42_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P319_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P84_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P139_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P143_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P2_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P259_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P295_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P176_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P5_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P308_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P245_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P94_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P269_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P243_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P136_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P14_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P15_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P312_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P209_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P99_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P230_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P187_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P291_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P154_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P283_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P174_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P138_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P86_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P56_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P219_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P281_L_DM_MLO2.jpg
+./Low energy images of CDD-CESM/P117_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P296_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P46_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P101_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P167_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P192_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P169_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P283_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P323_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P261_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P254_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P206_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P185_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P37_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P211_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P214_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P141_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P155_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P171_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P298_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P292_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P305_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P77_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P205_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P12_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P25_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P161_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P67_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P262_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P228_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P317_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P166_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P99_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P318_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P237_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P248_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P61_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P259_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P285_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P173_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P277_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P208_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P18_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P244_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P132_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P207_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P245_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P176_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P21_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P142_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P301_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P257_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P195_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P284_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P280_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P252_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P91_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P61_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P217_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P107_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P293_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P52_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P124_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P136_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P314_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P273_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P115_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P197_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P30_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P196_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P227_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P292_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P54_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P88_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P280_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P304_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P236_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P173_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P71_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P191_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P67_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P259_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P197_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P152_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P122_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P310_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P103_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P227_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P200_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P250_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P321_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P100_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P265_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P270_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P212_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P319_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P102_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P66_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P63_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P3_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P257_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P22_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P87_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P169_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P59_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P272_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P139_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P98_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P304_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P170_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P221_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P11_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P159_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P266_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P306_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P274_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P7_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P233_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P197_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P169_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P275_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P178_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P93_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P192_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P244_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P212_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P153_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P194_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P297_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P150_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P306_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P140_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P272_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P194_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P224_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P229_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P325_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P172_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P37_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P54_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P69_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P268_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P306_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P48_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P97_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P153_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P239_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P88_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P296_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P52_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P316_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P252_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P315_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P123_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P37_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P177_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P99_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P14_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P79_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P243_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P187_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P289_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P72_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P41_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P89_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P298_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P5_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P314_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P280_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P6_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P76_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P225_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P40_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P311_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P279_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P40_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P99_L_DM_MLO_2.jpg
+./Low energy images of CDD-CESM/P100_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P323_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P133_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P124_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P271_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P255_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P101_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P286_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P49_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P126_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P309_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P134_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P185_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P307_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P303_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P156_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P253_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P311_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P287_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P304_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P265_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P80_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P40_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P88_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P145_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P1_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P156_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P307_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P311_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P165_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P254_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P313_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P59_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P264_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P140_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P185_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P138_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P105_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P286_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P111_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P177_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P27_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P36_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P213_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P258_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P35_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P125_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P174_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P220_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P44_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P202_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P303_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P190_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P203_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P165_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P31_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P225_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P238_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P302_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P85_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P84_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P226_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P237_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P279_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P110_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P313_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P188_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P272_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P295_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P125_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P43_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P175_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P186_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P50_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P24_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P15_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P44_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P101_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P253_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P54_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P238_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P293_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P84_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P258_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P237_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P183_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P129_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P115_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P261_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P307_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P209_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P74_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P201_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P325_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P116_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P66_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P10_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P149_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P93_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P244_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P194_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P210_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P74_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P293_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P172_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P157_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P321_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P165_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P247_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P322_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P18_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P174_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P31_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P109_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P21_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P288_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P23_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P251_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P4_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P160_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P265_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P112_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P62_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P289_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P228_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P303_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P314_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P124_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P180_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P317_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P68_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P237_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P290_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P215_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P215_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P216_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P275_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P285_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P51_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P230_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P27_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P164_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P31_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P235_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P118_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P102_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P106_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P24_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P249_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P238_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P196_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P53_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P90_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P144_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P98_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P73_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P254_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P95_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P271_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P45_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P95_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P74_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P103_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P286_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P270_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P181_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P236_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P291_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P98_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P302_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P260_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P202_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P262_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P271_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P198_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P94_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P148_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P64_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P12_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P300_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P96_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P320_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P126_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P268_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P104_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P105_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P140_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P97_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P261_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P236_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P19_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P213_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P143_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P270_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P220_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P122_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P96_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P10_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P302_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P209_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P56_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P249_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P173_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P189_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P141_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P223_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P153_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P197_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P308_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P283_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P150_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P97_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P278_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P242_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P2_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P154_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P284_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P170_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P100_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P315_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P24_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P192_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P119_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P195_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P326_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P90_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P295_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P266_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P269_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P176_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P29_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P146_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P160_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P52_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P307_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P282_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P65_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P56_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P155_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P16_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P223_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P54_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P114_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P317_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P108_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P251_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P49_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P315_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P230_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P322_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P58_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P248_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P214_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P83_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P65_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P180_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P120_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P200_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P194_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P59_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P65_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P55_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P273_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P303_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P137_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P30_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P304_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P299_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P251_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P161_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P127_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P236_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P141_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P107_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P49_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P268_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P272_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P151_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P196_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P300_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P106_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P276_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P113_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P93_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P320_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P10_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P102_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P142_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P28_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P309_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P76_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P243_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P129_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P213_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P165_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P110_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P45_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P324_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P3_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P14_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P138_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P325_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P45_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P162_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P206_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P59_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P172_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P214_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P207_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P267_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P255_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P175_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P55_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P62_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P308_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P282_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P51_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P200_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P140_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P184_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P287_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P188_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P255_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P248_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P101_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P276_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P62_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P286_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P26_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P29_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P267_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P20_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P207_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P294_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P162_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P97_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P217_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P246_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P292_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P92_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P114_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P87_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P258_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P135_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P96_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P86_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P82_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P184_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P180_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P291_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P123_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P131_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P208_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P162_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P28_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P273_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P121_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P34_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P29_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P195_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P116_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P310_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P83_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P297_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P105_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P301_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P113_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P203_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P147_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P35_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P107_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P100_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P10_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P195_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P113_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P285_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P325_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P312_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P33_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P111_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P87_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P154_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P211_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P46_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P170_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P257_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P64_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P152_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P299_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P11_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P206_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P265_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P290_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P35_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P76_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P114_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P149_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P119_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P92_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P300_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P320_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P222_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P191_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P82_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P9_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P226_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P299_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P146_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P150_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P46_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P232_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P183_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P314_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P218_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P282_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P326_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P80_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P263_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P155_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P252_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P223_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P130_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P74_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P7_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P269_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P108_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P115_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P192_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P212_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P5_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P129_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P121_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P259_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P282_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P184_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P294_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P292_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P296_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P128_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P143_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P177_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P116_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P146_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P124_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P199_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P132_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P322_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P68_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P227_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P119_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P110_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P211_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P225_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P79_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P111_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P274_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P89_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P267_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P308_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P13_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P138_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P60_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P281_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P38_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P147_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P305_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P47_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P154_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P323_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P21_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P216_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P75_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P233_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P181_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P279_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P119_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P216_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P45_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P179_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P283_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P115_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P43_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P206_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P118_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P149_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P161_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P126_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P252_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P145_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P170_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P281_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P129_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P3_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P243_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P185_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P8_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P279_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P6_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P266_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P226_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P297_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P260_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P309_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P316_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P324_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P51_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P225_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P148_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P182_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P288_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P132_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P172_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P320_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P16_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P255_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P316_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P40_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P278_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P30_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P212_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P96_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P141_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P174_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P284_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P311_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P128_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P235_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P28_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P81_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P19_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P89_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P126_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P296_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P232_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P80_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P312_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P301_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P32_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P309_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P49_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P184_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P289_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P89_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P220_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P260_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P270_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P322_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P152_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P261_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P30_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P33_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P158_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P239_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P263_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P57_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P318_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P293_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P118_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P37_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P276_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P128_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P132_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P277_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P214_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P275_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P281_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P298_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P297_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P193_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P257_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P76_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P72_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P34_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P103_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P190_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P266_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P241_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P302_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P144_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P173_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P111_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P264_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P313_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P319_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P123_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P202_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P300_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P263_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P298_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P264_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P273_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P183_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P287_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P238_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P21_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P319_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P156_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P62_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P240_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P326_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P204_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P278_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P83_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P16_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P93_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P242_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P290_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P94_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P73_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P31_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P177_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P176_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P7_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P78_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P122_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P275_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P90_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P51_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P271_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P274_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P125_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P233_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P301_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P2_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P280_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P188_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P32_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P228_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P50_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P220_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P262_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P105_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P323_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P244_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P168_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P317_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P32_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P99_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P46_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P81_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P256_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P19_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P32_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P234_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P83_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P92_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P186_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P104_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P228_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P5_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P295_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P310_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P249_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P263_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P200_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P287_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P162_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P181_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P305_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P144_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P70_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P66_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P77_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P25_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P232_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P253_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P149_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P306_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P123_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P14_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P18_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P81_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P251_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P227_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P87_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P235_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P218_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P239_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P73_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P98_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P198_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P209_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P156_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P191_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P188_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P260_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P155_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P82_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P281_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P73_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P2_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P103_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P125_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P213_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P12_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P207_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P268_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P226_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P274_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P288_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P94_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P189_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P315_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P267_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P44_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P310_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P24_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P66_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P299_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P61_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P128_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P290_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P190_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P143_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P102_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P150_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P318_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P161_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P316_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P39_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P231_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P232_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P278_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P3_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P277_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P215_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P114_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P326_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P148_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P262_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P65_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P16_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P276_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P256_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P84_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P146_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P64_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P239_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P4_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P235_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P61_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P318_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P55_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P144_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P12_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P230_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P88_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P305_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P288_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P179_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P253_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P313_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P163_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P289_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P254_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P136_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P216_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P20_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P82_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P291_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P148_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P191_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P285_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P145_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P258_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P202_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P38_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P52_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P241_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P90_R_DM_CC.jpg
+./Low energy images of CDD-CESM/P210_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P92_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P69_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P18_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P277_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P145_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P26_L_DM_MLO.jpg
+./Low energy images of CDD-CESM/P183_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P81_R_DM_MLO.jpg
+./Low energy images of CDD-CESM/P264_L_DM_CC.jpg
+./Low energy images of CDD-CESM/P122_R_DM_MLO.jpg
+./pwd_structure.txt
+./Medical reports for cases .zip
+./Subtracted images of CDD-CESM
+./Subtracted images of CDD-CESM/P212_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P161_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P188_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P320_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P142_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P99_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P22_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P144_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P299_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P215_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P227_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P282_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P197_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P4_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P38_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P123_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P8_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P138_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P88_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P303_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P263_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P183_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P233_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P61_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P202_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P290_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P262_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P169_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P264_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P206_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P317_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P165_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P64_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P169_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P124_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P2_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P278_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P176_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P50_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P63_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P107_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P83_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P190_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P35_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P232_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P252_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P148_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P165_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P262_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P40_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P258_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P196_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P207_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P268_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P94_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P267_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P326_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P75_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P150_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P232_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P46_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P246_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P147_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P264_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P69_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P243_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P116_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P45_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P311_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P322_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P280_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P45_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P259_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P295_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P10_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P177_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P64_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P236_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P223_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P192_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P243_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P222_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P276_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P272_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P293_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P299_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P191_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P306_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P279_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P88_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P111_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P146_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P19_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P200_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P93_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P293_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P59_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P44_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P256_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P302_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P217_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P148_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P270_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P316_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P136_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P210_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P165_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P281_L_CM_MLO2.jpg
+./Subtracted images of CDD-CESM/P185_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P82_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P257_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P290_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P292_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P59_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P23_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P291_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P175_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P155_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P165_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P300_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P43_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P106_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P263_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P244_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P126_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P31_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P118_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P259_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P66_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P121_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P317_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P34_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P30_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P320_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P30_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P88_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P312_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P92_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P286_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P24_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P298_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P10_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P18_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P125_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P150_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P325_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P144_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P120_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P188_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P110_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P253_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P322_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P237_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P269_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P301_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P94_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P143_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P158_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P237_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P268_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P29_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P54_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P206_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P96_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P255_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P86_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P31_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P103_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P26_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P208_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P323_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P52_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P57_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P248_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P69_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P305_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P32_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P311_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P134_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P278_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P65_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P115_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P216_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P316_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P162_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P132_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P324_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P238_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P277_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P226_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P148_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P31_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P103_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P65_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P284_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P122_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P20_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P84_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P122_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P208_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P153_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P214_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P21_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P18_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P319_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P3_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P102_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P143_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P257_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P313_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P89_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P239_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P66_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P194_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P184_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P90_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P200_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P182_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P82_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P60_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P207_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P306_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P275_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P291_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P295_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P280_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P194_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P139_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P215_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P269_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P295_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P240_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P307_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P218_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P267_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P162_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P83_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P2_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P49_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P176_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P253_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P10_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P93_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P213_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P243_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P29_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P19_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P55_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P97_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P137_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P55_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P4_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P275_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P52_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P197_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P296_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P211_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P308_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P276_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P46_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P21_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P248_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P119_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P188_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P297_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P138_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P183_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P308_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P318_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P66_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P144_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P278_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P218_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P294_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P185_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P311_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P135_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P105_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P264_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P33_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P73_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P310_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P228_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P5_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P309_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P281_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P61_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P172_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P149_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P176_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P185_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P217_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P256_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P98_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P84_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P130_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P210_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P62_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P271_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P116_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P5_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P50_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P269_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P265_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P54_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P161_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P273_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P268_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P98_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P36_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P146_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P289_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P326_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P16_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P56_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P143_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P261_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P192_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P27_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P45_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P35_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P197_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P114_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P189_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P213_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P145_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P230_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P141_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P129_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P115_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P281_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P257_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P287_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P114_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P156_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P189_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P184_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P282_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P59_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P233_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P7_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P300_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P233_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P274_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P249_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P271_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P101_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P209_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P318_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P73_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P181_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P14_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P149_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P91_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P56_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P260_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P284_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P110_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P65_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P235_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P289_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P219_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P35_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P212_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P228_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P177_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P211_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P307_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P76_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P124_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P319_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P186_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P105_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P87_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P3_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P100_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P97_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P252_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P99_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P247_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P155_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P239_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P239_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P292_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P310_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P200_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P322_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P157_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P314_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P283_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P237_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P51_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P323_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P227_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P71_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P268_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P322_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P315_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P320_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P61_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P55_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P80_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P92_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P272_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P287_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P86_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P245_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P281_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P88_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P52_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P67_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P118_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P116_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P307_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P12_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P221_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P273_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P298_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P84_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P111_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P132_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P170_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P325_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P12_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P145_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P259_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P206_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P324_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P98_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P163_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P181_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P105_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P140_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P270_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P326_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P174_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P96_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P310_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P138_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P43_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P286_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P127_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P151_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P231_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P195_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P155_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P176_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P149_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P87_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P40_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P154_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P103_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P89_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P235_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P12_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P126_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P239_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P304_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P202_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P235_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P230_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P195_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P298_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P62_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P66_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P14_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P162_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P79_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P277_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P96_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P119_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P125_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P49_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P168_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P95_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P297_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P48_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P18_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P51_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P37_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P160_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P101_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P24_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P254_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P251_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P98_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P82_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P46_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P194_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P100_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P223_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P125_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P81_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P110_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P241_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P34_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P207_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P128_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P251_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P70_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P254_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P128_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P251_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P301_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P261_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P124_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P42_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P191_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P224_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P132_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P104_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P262_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P220_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P244_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P102_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P302_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P287_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P277_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P147_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P291_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P37_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P258_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P115_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P284_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P46_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P107_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P206_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P242_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P275_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P237_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P284_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P211_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P174_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P178_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P315_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P220_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P93_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P51_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P186_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P150_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P15_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P152_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P307_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P177_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P175_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P140_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P15_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P265_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P62_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P305_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P192_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P83_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P132_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P32_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P301_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P80_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P180_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P254_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P167_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P308_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P76_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P24_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P265_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P269_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P7_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P184_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P138_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P81_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P195_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P285_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P92_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P1_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P143_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P296_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P52_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P109_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P324_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P113_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P261_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P214_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P232_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P215_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P54_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P258_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P274_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P236_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P216_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P272_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P283_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P203_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P204_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P129_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P49_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P72_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P45_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P288_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P100_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P251_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P270_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P11_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P169_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P319_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P202_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P162_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P172_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P122_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P253_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P40_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P97_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P296_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P214_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P30_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P124_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P114_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P76_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P226_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P236_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P196_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P225_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P113_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P28_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P198_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P21_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P301_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P277_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P166_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P236_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P285_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P202_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P279_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P325_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P94_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P262_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P286_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P266_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P300_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P249_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P283_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P47_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P74_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P19_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P290_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P99_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P283_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P177_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P316_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P270_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P106_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P232_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P314_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P187_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P73_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P131_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P192_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P220_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P173_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P29_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P226_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P72_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P118_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P266_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P32_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P139_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P255_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P254_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P53_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P315_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P152_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P95_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P198_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P252_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P97_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P160_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P304_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P6_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P285_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P156_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P263_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P181_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P289_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P93_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P136_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P59_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P305_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P311_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P295_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P234_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P74_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P90_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P180_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P244_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P292_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P40_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P89_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P228_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P287_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P25_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P310_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P6_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P90_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P144_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P179_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P5_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P161_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P99_L_CM_MLO_2.jpg
+./Subtracted images of CDD-CESM/P68_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P276_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P20_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P174_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P320_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P73_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P87_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P238_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P49_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P172_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P152_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P150_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P243_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P318_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P107_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P188_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P273_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P128_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P14_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P56_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P101_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P315_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P227_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P14_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P96_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P186_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P288_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P257_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P260_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P149_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P101_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P304_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P209_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P303_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P278_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P184_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P309_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P288_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P119_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P129_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P61_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P87_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P260_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P125_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P297_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P280_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P37_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P255_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P170_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P276_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P291_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P170_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P16_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P271_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P156_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P191_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P288_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P83_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P180_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P258_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P296_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P102_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P248_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P37_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P302_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P123_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P65_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P128_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P181_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P209_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P266_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P111_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P155_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P5_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P25_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P275_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P11_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P108_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P174_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P123_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P113_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P285_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P312_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P126_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P39_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P230_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P286_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P313_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P279_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P303_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P81_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P190_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P185_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P161_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P267_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P281_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P62_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P326_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P197_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P203_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P76_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P303_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P103_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P263_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P99_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P145_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P16_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P249_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P27_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P321_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P272_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P44_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P196_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P212_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P226_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P133_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P115_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P164_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P122_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P241_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P302_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P38_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P39_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P114_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P298_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P304_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P305_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P299_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P58_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P51_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P3_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P249_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P24_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P280_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P187_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P306_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P225_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P173_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P136_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P313_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P253_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P195_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P89_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P12_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P90_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P82_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P193_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P273_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P314_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P21_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P264_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P111_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P108_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P126_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P7_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P250_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P94_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P238_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P55_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P214_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P30_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P141_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P245_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P28_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P294_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P18_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P201_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P271_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P148_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P216_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P309_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P308_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P325_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P292_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P26_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P140_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P274_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P211_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P119_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P312_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P141_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P313_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P259_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P321_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P16_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P180_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P242_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P84_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P312_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P199_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P104_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P74_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P44_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P142_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P121_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P265_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P228_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P17_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P194_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P306_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P190_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P9_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P74_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P318_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P227_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P172_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P171_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P28_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P129_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P314_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P235_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P260_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P323_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P105_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P92_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P255_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P191_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P209_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P317_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P290_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P141_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P100_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P293_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P230_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P173_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P252_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P64_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P183_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P183_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P225_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P244_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P2_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P170_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P233_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P31_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P317_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P77_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P41_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P309_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P156_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P207_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P153_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P173_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P319_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P77_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P159_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P299_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P117_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P267_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P297_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P140_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P225_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P293_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P32_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P146_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P213_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P85_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P223_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P205_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P67_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P3_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P10_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P300_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P79_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P2_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P282_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P54_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P261_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P238_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P154_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P102_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P145_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P279_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P220_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P282_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P154_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P212_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P80_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P33_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P112_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P229_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P179_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P266_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P289_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P81_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P153_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P323_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P13_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P68_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P216_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P213_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P123_R_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P78_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P146_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P316_L_CM_MLO.jpg
+./Subtracted images of CDD-CESM/P154_L_CM_CC.jpg
+./Subtracted images of CDD-CESM/P200_R_CM_CC.jpg
+./Subtracted images of CDD-CESM/P274_R_CM_MLO.jpg
