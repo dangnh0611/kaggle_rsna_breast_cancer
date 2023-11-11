@@ -1,4 +1,4 @@
-FROM ultralytics/yolov5:latest
+FROM ultralytics/yolov5:v7.0
 
 RUN apt update
 RUN DEBIAN_FRONTEND=noninteractive apt install -y build-essential make cmake
