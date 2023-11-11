@@ -1,7 +1,8 @@
-Below you can find an outline of how to reproduce my solution for the [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection) competition. 
-If you run into any trouble with the setup/code or have any questions please contact me at `dangnh0611@gmail.com`.
+1st place solution for [RSNA Screening Mammography Breast Cancer Detection competition on Kaggle](https://www.kaggle.com/competitions/rsna-breast-cancer-detection)
 
 Solution write up: https://www.kaggle.com/competitions/rsna-breast-cancer-detection/discussion/392449
+
+![overall pipeline](docs/figs/preprocess.png)
 
 **Notes:**
 - Copy of the trained models can not be upload since the total size is > 2GB. So I create a kaggle dataset to store theme: https://www.kaggle.com/datasets/dangnh0611/rsna-breast-cancer-detection-best-ckpts
